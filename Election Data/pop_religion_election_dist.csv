@@ -1,0 +1,515 @@
+kode_prov,kode_bps_2010,kode_bps_2014_x,kode_bps_2019,name_prov,name_kab_2014,name_kab_2019,dapil_2019,dapil 2014,change_14_19,name_kab_2010,Islam,Kristen,Katolik,Hindu,Budha,Khong Hu Chu,Lainnya,Tidak Terjawab,Tidak Ditanyakan,Jumlah
+11,1101,1101,1101,Aceh,Simeulue,Simeulue,Aceh-01,Aceh-01,No Change,Simeulue,80424,171,5,0,25,0,0,1,48,80674
+11,1102,1102,1102,Aceh,Aceh Singkil,Aceh Singkil,Aceh-01,Aceh-01,No Change,Aceh Singkil,90508,10715,746,2,1,0,263,0,274,102509
+11,1103,1103,1103,Aceh,Aceh Selatan,Aceh Selatan,Aceh-01,Aceh-01,No Change,Aceh Selatan,200686,79,13,0,117,0,0,0,1356,202251
+11,1104,1104,1104,Aceh,Aceh Tenggara,Aceh Tenggara,Aceh-01,Aceh-01,No Change,Aceh Tenggara,145265,32209,1275,3,2,0,0,0,256,179010
+11,1105,1105,1105,Aceh,Aceh Timur,Aceh Timur,Aceh-02,Aceh-02,No Change,Aceh Timur,360144,30,9,0,43,1,0,0,248,360475
+11,1106,1106,1106,Aceh,Aceh Tengah,Aceh Tengah,Aceh-02,Aceh-02,No Change,Aceh Tengah,174659,327,88,1,226,1,0,0,225,175527
+11,1107,1107,1107,Aceh,Aceh Barat,Aceh Barat,Aceh-01,Aceh-01,No Change,Aceh Barat,170701,358,41,3,634,7,0,0,1814,173558
+11,1108,1108,1108,Aceh,Aceh Besar,Aceh Besar,Aceh-01,Aceh-01,No Change,Aceh Besar,345535,681,136,20,154,6,1,0,4885,351418
+11,1109,1109,1109,Aceh,Aceh Pidie,Aceh Pidie,Aceh-01,Aceh-01,No Change,Pidie,377453,79,9,1,115,0,0,0,1451,379108
+11,1110,1110,1110,Aceh,Bireuen,Bireuen,Aceh-02,Aceh-02,No Change,Bireuen,387379,171,7,11,324,7,0,0,1389,389288
+11,1111,1111,1111,Aceh,Aceh Utara,Aceh Utara,Aceh-02,Aceh-02,No Change,Aceh Utara,529199,171,13,9,98,0,0,0,261,529751
+11,1112,1112,1112,Aceh,Aceh Barat Daya,Aceh Barat Daya,Aceh-01,Aceh-01,No Change,Aceh Barat Daya,125708,24,4,0,184,0,0,0,116,126036
+11,1113,1113,1113,Aceh,Gayo Lues,Gayo Lues,Aceh-01,Aceh-01,No Change,Gayo Lues,79331,147,1,1,1,0,0,0,79,79560
+11,1114,1114,1114,Aceh,Aceh Tamiang,Aceh Tamiang,Aceh-02,Aceh-02,No Change,Aceh Tamiang,249354,628,71,1,1265,7,0,0,588,251914
+11,1115,1115,1115,Aceh,Nagan Raya,Nagan Raya,Aceh-01,Aceh-01,No Change,Nagan Raya,138869,244,4,0,44,0,0,0,502,139663
+11,1116,1116,1116,Aceh,Aceh Jaya,Aceh Jaya,Aceh-01,Aceh-01,No Change,Aceh Jaya,75501,64,3,5,1,0,0,0,1208,76782
+11,1117,1117,1117,Aceh,Bener Meriah,Bener Meriah,Aceh-02,Aceh-02,No Change,Bener Meriah,121722,82,12,7,42,1,0,0,411,122277
+11,1118,1118,1118,Aceh,Pidie Jaya,Pidie Jaya,Aceh-01,Aceh-01,No Change,Pidie Jaya,132062,14,1,0,1,1,0,0,877,132956
+11,1171,1171,1171,Aceh,Banda Aceh,Banda Aceh,Aceh-01,Aceh-01,No Change,Kota Banda Aceh,216941,1571,431,50,2535,3,11,0,1904,223446
+11,1172,1172,1172,Aceh,Sabang,Sabang,Aceh-01,Aceh-01,No Change,Kota Sabang,29889,283,53,1,236,0,2,0,189,30653
+11,1173,1173,1173,Aceh,Langsa,Langsa,Aceh-02,Aceh-02,No Change,Kota Langsa,146377,532,12,13,455,0,0,0,1556,148945
+11,1174,1174,1174,Aceh,Lhokseumawe,Lhokseumawe,Aceh-02,Aceh-02,No Change,Kota Lhokseumawe,169631,539,75,7,557,0,0,0,354,171163
+11,1175,1175,1175,Aceh,Subulussalam,Subulussalam,Aceh-01,Aceh-01,No Change,Kota Subulussalam,65906,1190,306,1,2,2,0,0,39,67446
+12,1201,1201,1201,Sumatera Utara,Nias,Nias,Sumut-02,Sumut-02,No Change,Nias,1536,113293,16510,0,0,4,27,6,1,131377
+12,1202,1202,1202,Sumatera Utara,Mandailing Natal,Mandailing Natal,Sumut-02,Sumut-02,No Change,Mandailing Natal,386771,12452,454,10,16,0,0,0,5242,404945
+12,1203,1203,1203,Sumatera Utara,Tapanuli Selatan,Tapanuli Selatan,Sumut-02,Sumut-02,No Change,Tapanuli Selatan,207372,51735,2544,3,15,0,44,0,2102,263815
+12,1204,1204,1204,Sumatera Utara,Tapanuli Tengah,Tapanuli Tengah,Sumut-02,Sumut-02,No Change,Tapanuli Tengah,132932,141013,36146,18,208,3,346,8,558,311232
+12,1205,1205,1205,Sumatera Utara,Tapanuli Utara,Tapanuli Utara,Sumut-02,Sumut-02,No Change,Tapanuli Utara,13301,251991,12815,2,139,5,25,7,972,279257
+12,1206,1206,1206,Sumatera Utara,Toba Samosir,Toba Samosir,Sumut-02,Sumut-02,No Change,Toba Samosir,10738,147894,11424,37,74,5,1814,0,1143,173129
+12,1207,1207,1207,Sumatera Utara,Labuhan Batu,Labuhan Batu,Sumut-02,Sumut-02,No Change,Labuhan Batu,344224,57921,4811,53,6637,9,31,0,1424,415110
+12,1208,1208,1208,Sumatera Utara,Asahan,Asahan,Sumut-03,Sumut-03,No Change,Asahan,594366,61161,4513,109,6848,11,162,0,1102,668272
+12,1209,1209,1209,Sumatera Utara,Simalungun,Simalungun,Sumut-03,Sumut-03,No Change,Simalungun,468328,302302,42132,128,1965,13,470,84,2298,817720
+12,1210,1210,1210,Sumatera Utara,Dairi,Dairi,Sumut-03,Sumut-03,No Change,Dairi,42302,196592,30476,20,272,6,36,0,349,270053
+12,1211,1211,1211,Sumatera Utara,Tanah Karo,Tanah Karo,Sumut-03,Sumut-03,No Change,Karo,91796,204283,51678,130,1518,4,101,0,1450,350960
+12,1212,1212,1212,Sumatera Utara,Deli Serdang,Deli Serdang,Sumut-01,Sumut-01,No Change,Deli Serdang,1400527,301106,44388,2989,36380,96,339,195,4411,1790431
+12,1213,1213,1213,Sumatera Utara,Langkat,Langkat,Sumut-03,Sumut-03,No Change,Langkat,876405,75001,3997,409,7676,20,271,0,3756,967535
+12,1214,1214,1214,Sumatera Utara,Nias Selatan,Nias Selatan,Sumut-02,Sumut-02,No Change,Nias Selatan,7394,223843,58123,6,31,2,93,89,127,289708
+12,1215,1215,1215,Sumatera Utara,Humbang Hasundutan,Humbang Hasundutan,Sumut-02,Sumut-02,No Change,Humbang Hasundutan,5165,142662,23410,0,2,0,90,2,319,171650
+12,1216,1216,1216,Sumatera Utara,Pakpak Bharat,Pakpak Bharat,Sumut-03,Sumut-03,No Change,Pakpak Bharat,16161,23065,1223,0,0,0,0,0,56,40505
+12,1217,1217,1217,Sumatera Utara,Samosir,Samosir,Sumut-02,Sumut-02,No Change,Samosir,1884,69947,47575,8,5,1,172,0,61,119653
+12,1218,1218,1218,Sumatera Utara,Serdang Bedagai,Serdang Bedagai,Sumut-01,Sumut-01,No Change,Serdang Bedagai,497855,79502,8299,207,7264,43,57,672,484,594383
+12,1219,1219,1219,Sumatera Utara,Batu Bara,Batu Bara,Sumut-03,Sumut-03,No Change,Batu Bara,330076,37757,5715,25,1100,40,268,4,900,375885
+12,1220,1220,1220,Sumatera Utara,Padang Lawas Utara,Padang Lawas Utara,Sumut-02,Sumut-02,No Change,Padang Lawas Utara,200459,20838,832,3,12,0,8,0,1379,223531
+12,1221,1221,1221,Sumatera Utara,Padang Lawas,Padang Lawas,Sumut-02,Sumut-02,No Change,Padang Lawas,213948,10777,379,0,5,0,2,0,148,225259
+12,1222,1222,1222,Sumatera Utara,Labuhan Batu Selatan,Labuhan Batu Selatan,Sumut-02,Sumut-02,No Change,Labuhan Batu Selatan,238682,36870,1318,16,622,15,0,0,150,277673
+12,1223,1223,1223,Sumatera Utara,Labuhan Batu Utara,Labuhan Batu Utara,Sumut-02,Sumut-02,No Change,Labuhan Batu Utara,271919,52492,4012,30,1801,9,10,0,428,330701
+12,1224,1224,1224,Sumatera Utara,Nias Utara,Nias Utara,Sumut-02,Sumut-02,No Change,Nias Utara,6894,99529,20676,2,1,0,140,1,1,127244
+12,1225,1225,1225,Sumatera Utara,Nias Barat,Nias Barat,Sumut-02,Sumut-02,No Change,Nias Barat,1621,64417,15740,2,12,1,11,1,2,81807
+12,1271,1271,1271,Sumatera Utara,Sibolga,Sibolga,Sumut-02,Sumut-02,No Change,Kota Sibolga,48358,29729,3741,2,2512,14,9,0,116,84481
+12,1272,1272,1272,Sumatera Utara,Tanjung Balai,Tanjung Balai,Sumut-03,Sumut-03,No Change,Kota Tanjung Balai,131339,12348,1168,27,8781,27,3,0,752,154445
+12,1273,1273,1273,Sumatera Utara,Pematang Siantar,Pematang Siantar,Sumut-03,Sumut-03,No Change,Kota Pematang Siantar,103029,109236,11065,265,10226,27,163,80,607,234698
+12,1274,1274,1274,Sumatera Utara,Tebing Tinggi,Tebing Tinggi,Sumut-01,Sumut-01,No Change,Kota Tebing Tinggi,113344,18689,1327,217,10313,70,5,4,1279,145248
+12,1275,1275,1275,Sumatera Utara,Medan,Medan,Sumut-01,Sumut-01,No Change,Kota Medan,1422237,425253,37552,9296,184807,370,339,491,17265,2097610
+12,1276,1276,1276,Sumatera Utara,Binjai,Binjai,Sumut-03,Sumut-03,No Change,Kota Binjai,209426,19396,2004,630,13391,182,16,0,1109,246154
+12,1277,1277,1277,Sumatera Utara,Padang Sidempuan,Padang Sidempuan,Sumut-02,Sumut-02,No Change,Kota Padangsidimpuan,172290,17123,878,0,670,5,0,61,504,191531
+12,1278,1278,1278,Sumatera Utara,Gunung Sitoli,Gunung Sitoli,Sumut-02,Sumut-02,No Change,Kota Gunungsitoli,17151,99483,9112,0,245,2,36,55,118,126202
+13,1301,1301,1301,Sumatera Barat,Kepulauan Mentawai,Kepulauan Mentawai,Sumbar-01,Sumbar-01,No Change,Kepulauan Mentawai,14897,37321,23568,3,0,6,360,13,5,76173
+13,1302,1302,1302,Sumatera Barat,Pesisir Selatan,Pesisir Selatan,Sumbar-01,Sumbar-01,No Change,Pesisir Selatan,428250,509,126,8,11,0,2,254,86,429246
+13,1303,1303,1303,Sumatera Barat,Solok,Solok,Sumbar-01,Sumbar-01,No Change,Solok,347526,463,29,3,7,2,5,253,278,348566
+13,1304,1304,1304,Sumatera Barat,Sawahlunto Sijunjung,Sawahlunto Sijunjung,Sumbar-01,Sumbar-01,No Change,Sijunjung,200553,774,200,8,13,2,10,27,236,201823
+13,1305,1305,1305,Sumatera Barat,Tanah Datar,Tanah Datar,Sumbar-01,Sumbar-01,No Change,Tanah Datar,336353,378,127,3,15,3,1,10,1604,338494
+13,1306,1306,1306,Sumatera Barat,Padang Pariaman,Padang Pariaman,Sumbar-02,Sumbar-02,No Change,Padang Pariaman,389090,1150,217,10,2,1,0,380,206,391056
+13,1307,1307,1307,Sumatera Barat,Agam,Agam,Sumbar-02,Sumbar-02,No Change,Agam,450981,2907,301,19,11,1,6,98,529,454853
+13,1308,1308,1308,Sumatera Barat,Limapuluh Kota,Limapuluh Kota,Sumbar-02,Sumbar-02,No Change,Lima Puluh Kota,347539,449,219,2,14,3,1,224,104,348555
+13,1309,1309,1309,Sumatera Barat,Pasaman,Pasaman,Sumbar-02,Sumbar-02,No Change,Pasaman,252055,1041,65,1,2,1,0,88,46,253299
+13,1310,1310,1310,Sumatera Barat,Solok Selatan,Solok Selatan,Sumbar-01,Sumbar-01,No Change,Solok Selatan,143443,558,83,4,15,1,1,23,153,144281
+13,1311,1311,1311,Sumatera Barat,Dharmas Raya,Dharmas Raya,Sumbar-01,Sumbar-01,No Change,Dharmas Raya,188691,1287,253,4,9,3,0,24,1151,191422
+13,1312,1312,1312,Sumatera Barat,Pasaman Barat,Pasaman Barat,Sumbar-02,Sumbar-02,No Change,Pasaman Barat,356664,5906,2327,1,42,3,25,62,99,365129
+13,1371,1371,1371,Sumatera Barat,Padang,Padang,Sumbar-01,Sumbar-01,No Change,Kota Padang,803706,13094,10689,145,2876,36,73,464,2479,833562
+13,1372,1372,1372,Sumatera Barat,Solok,Solok,Sumbar-01,Sumbar-01,No Change,Kota Solok,58621,352,173,1,2,1,0,1,245,59396
+13,1373,1373,1373,Sumatera Barat,Sawahlunto,Sawahlunto,Sumbar-01,Sumbar-01,No Change,Kota Sawah Lunto,56508,226,99,0,2,2,2,0,27,56866
+13,1374,1374,1374,Sumatera Barat,Padang Panjang,Padang Panjang,Sumbar-01,Sumbar-01,No Change,Kota Padang Panjang,45076,268,305,4,45,0,4,0,1306,47008
+13,1375,1375,1375,Sumatera Barat,Bukittinggi,Bukittinggi,Sumbar-02,Sumbar-02,No Change,Kota Bukittinggi,108367,1586,1041,10,197,3,3,0,105,111312
+13,1376,1376,1376,Sumatera Barat,Payakumbuh,Payakumbuh,Sumbar-02,Sumbar-02,No Change,Kota Payakumbuh,115142,714,506,6,154,2,0,8,293,116825
+13,1377,1377,1377,Sumatera Barat,Pariaman,Pariaman,Sumbar-02,Sumbar-02,No Change,Kota Pariaman,78462,270,100,2,2,0,0,1,206,79043
+14,1401,1401,1401,Riau,Kuantan Singingi,Kuantan Singingi,Riau-02,Riau-02,No Change,Kuantan Singingi,280478,9614,814,23,378,11,6,0,792,292116
+14,1402,1402,1402,Riau,Indragiri Hulu,Indragiri Hulu,Riau-02,Riau-02,No Change,Indragiri Hulu,336394,19753,3845,14,1058,55,1281,1,1041,363442
+14,1403,1403,1403,Riau,Indragiri Hilir,Indragiri Hilir,Riau-02,Riau-02,No Change,Indragiri Hilir,649827,6119,603,75,4294,216,8,23,614,661779
+14,1404,1404,1404,Riau,Pelalawan,Pelalawan,Riau-02,Riau-02,No Change,Pelalawan,253465,42123,2947,86,2619,13,0,0,576,301829
+14,1405,1405,1405,Riau,Siak,Siak,Riau-01,Riau-01,No Change,Siak,311820,54250,5010,226,3601,63,268,0,1504,376742
+14,1406,1406,1406,Riau,Kampar,Kampar,Riau-02,Riau-02,No Change,Kampar,620465,61613,5098,54,450,24,6,87,407,688204
+14,1407,1407,1407,Riau,Rokan Hulu,Rokan Hulu,Riau-01,Riau-01,No Change,Rokan Hulu,400125,69355,4700,16,231,7,23,0,386,474843
+14,1408,1408,1408,Riau,Bengkalis,Bengkalis,Riau-01,Riau-01,No Change,Bengkalis,411569,56295,4624,85,24286,361,41,0,1075,498336
+14,1409,1409,1409,Riau,Rokan Hilir,Rokan Hilir,Riau-01,Riau-01,No Change,Rokan Hilir,480505,51696,3355,87,15095,957,11,6,1504,553216
+14,1410,1410,1410,Riau,Kepulauan Meranti,Kepulauan Meranti,Riau-01,Riau-01,No Change,Kepulauan Meranti,148888,2350,162,73,23083,1316,315,0,103,176290
+14,1471,1471,1471,Riau,Pekan Baru,Pekan Baru,Riau-01,Riau-01,No Change,Kota Pekanbaru,762049,86200,11270,280,31108,310,129,400,6021,897767
+14,1473,1473,1473,Riau,Dumai,Dumai,Riau-01,Riau-01,No Change,Kota Dumai,217288,25527,1755,57,8129,422,0,0,625,253803
+15,1501,1501,1501,Jambi,Kerinci,Kerinci,Jambi-at-large,Jambi-at-large,No Change,Kerinci,228961,423,110,0,0,0,0,1,0,229495
+15,1502,1502,1502,Jambi,Merangin,Merangin,Jambi-at-large,Jambi-at-large,No Change,Merangin,326376,4957,503,30,80,13,32,12,1203,333206
+15,1503,1503,1503,Jambi,Sarolangun,Sarolangun,Jambi-at-large,Jambi-at-large,No Change,Sarolangun,238093,5569,694,14,223,16,128,5,1503,246245
+15,1504,1504,1504,Jambi,Batanghari,Batanghari,Jambi-at-large,Jambi-at-large,No Change,Batang Hari,236286,4077,393,19,221,35,0,1,302,241334
+15,1505,1505,1505,Jambi,Muaro Jambi,Muaro Jambi,Jambi-at-large,Jambi-at-large,No Change,Muaro Jambi,326275,11949,1118,150,996,184,2,25,2253,342952
+15,1506,1506,1506,Jambi,Tanjung Jabung Timur,Tanjung Jabung Timur,Jambi-at-large,Jambi-at-large,No Change,Tanjung Jabung Timur,201993,1987,272,4,248,27,4,0,737,205272
+15,1507,1507,1507,Jambi,Tanjung Jabung Barat,Tanjung Jabung Barat,Jambi-at-large,Jambi-at-large,No Change,Tanjung Jabung Barat,262756,11634,1018,39,1533,145,1,63,1552,278741
+15,1508,1508,1508,Jambi,Tebo,Tebo,Jambi-at-large,Jambi-at-large,No Change,Tebo,289648,5727,971,100,99,21,129,10,1030,297735
+15,1509,1509,1509,Jambi,Bungo,Bungo,Jambi-at-large,Jambi-at-large,No Change,Bungo,294057,4881,1043,17,1121,1,0,27,1988,303135
+15,1571,1571,1571,Jambi,Jambi,Jambi,Jambi-at-large,Jambi-at-large,No Change,Kota Jambi,464233,30623,7006,208,25383,1049,7,165,3183,531857
+15,1572,1572,1572,Jambi,Sungai Penuh,Sungai Penuh,Jambi-at-large,Jambi-at-large,No Change,Kota Sungai Penuh,81517,484,122,1,110,0,0,4,55,82293
+16,1601,1601,1601,Sumatera Selatan,Ogan Komering Ulu,Ogan Komering Ulu,Sumsel-02,Sumsel-02,No Change,Ogan Komering Ulu,314182,2281,3211,2104,822,5,6,62,1372,324045
+16,1602,1602,1602,Sumatera Selatan,Ogan Komering Ilir,Ogan Komering Ilir,Sumsel-02,Sumsel-02,No Change,Ogan Komering Ilir,708929,4964,2986,10012,400,11,3,62,9,727376
+16,1603,1603,1603,Sumatera Selatan,Muara Enim,Muara Enim,Sumsel-02,Sumsel-02,No Change,Muara Enim,708105,4399,1209,1308,852,5,20,91,687,716676
+16,1604,1604,1604,Sumatera Selatan,Lahat,Lahat,Sumsel-02,Sumsel-02,No Change,Lahat,365947,1719,909,27,552,16,0,28,776,369974
+16,1605,1605,1605,Sumatera Selatan,Musi Rawas,Musi Rawas,Sumsel-01,Sumsel-01,No Change,Musi Rawas,515632,4601,2661,2051,213,7,7,8,328,525508
+16,1606,1606,1606,Sumatera Selatan,Musi Banyuasin,Musi Banyuasin,Sumsel-01,Sumsel-01,No Change,Musi Banyuasin,553352,4118,749,2295,111,17,3,237,576,561458
+16,1607,1607,1607,Sumatera Selatan,Banyuasin,Banyuasin,Sumsel-01,Sumsel-01,No Change,Banyu Asin,733626,7362,1607,3631,2274,31,5,51,1523,750110
+16,1608,1608,1608,Sumatera Selatan,Ogan Komering Ulu Selatan,Ogan Komering Ulu Selatan,Sumsel-02,Sumsel-02,No Change,Ogan Komering Ulu Selatan,315720,780,138,1288,127,1,4,3,367,318428
+16,1609,1609,1609,Sumatera Selatan,Ogan Komering Ulu Timur,Ogan Komering Ulu Timur,Sumsel-02,Sumsel-02,No Change,Ogan Komering Ulu Timur,576229,7056,10012,15495,622,5,13,90,460,609982
+16,1610,1610,1610,Sumatera Selatan,Ogan Ilir,Ogan Ilir,Sumsel-02,Sumsel-02,No Change,Ogan Ilir,375393,1595,178,25,401,5,8,24,3275,380904
+16,1611,1611,1611,Sumatera Selatan,Empat Lawang,Empat Lawang,Sumsel-02,Sumsel-02,No Change,Empat Lawang,220694,223,50,69,20,0,4,5,111,221176
+16,1603,1612,1612,Sumatera Selatan,Penukal Abab Lematang Ilir,Penukal Abab Lematang Ilir,Sumsel-02,Sumsel-02,No Change,Muara Enim,708105,4399,1209,1308,852,5,20,91,687,716676
+16,1605,1613,1613,Sumatera Selatan,Musi Rawas Utara,Musi Rawas Utara,Sumsel-01,Sumsel-01,No Change,Musi Rawas,515632,4601,2661,2051,213,7,7,8,328,525508
+16,1671,1671,1671,Sumatera Selatan,Palembang,Palembang,Sumsel-01,Sumsel-01,No Change,Kota Palembang,1354586,28724,16884,792,49638,533,57,1242,2828,1455284
+16,1672,1672,1672,Sumatera Selatan,Prabumulih,Prabumulih,Sumsel-02,Sumsel-02,No Change,Kota Prabumulih,158038,1505,494,53,1293,12,30,18,541,161984
+16,1673,1673,1673,Sumatera Selatan,Pagar Alam,Pagar Alam,Sumsel-02,Sumsel-02,No Change,Kota Pagar Alam,125208,360,238,9,117,4,3,0,242,126181
+16,1674,1674,1674,Sumatera Selatan,Lubuk Linggau,Lubuk Linggau,Sumsel-01,Sumsel-01,No Change,Kota Lubuklinggau,193310,2548,1110,47,2213,11,1,7,2061,201308
+17,1701,1701,1701,Bengkulu,Bengkulu Selatan,Bengkulu Selatan,Bengkulu-at-large,Bengkulu-at-large,No Change,Bengkulu Selatan,140881,1469,229,18,19,0,0,152,172,142940
+17,1702,1702,1702,Bengkulu,Rejang Lebong,Rejang Lebong,Bengkulu-at-large,Bengkulu-at-large,No Change,Rejang Lebong,241191,2156,1183,41,620,2,102,87,1405,246787
+17,1703,1703,1703,Bengkulu,Bengkulu Utara,Bengkulu Utara,Bengkulu-at-large,Bengkulu-at-large,No Change,Bengkulu Utara,246848,7663,938,1522,109,2,6,77,510,257675
+17,1704,1704,1704,Bengkulu,Kaur,Kaur,Bengkulu-at-large,Bengkulu-at-large,No Change,Kaur,107440,281,36,138,3,1,0,0,0,107899
+17,1705,1705,1705,Bengkulu,Seluma,Seluma,Bengkulu-at-large,Bengkulu-at-large,No Change,Seluma,169655,2385,185,1144,3,0,3,33,99,173507
+17,1706,1706,1706,Bengkulu,Mukomuko,Mukomuko,Bengkulu-at-large,Bengkulu-at-large,No Change,Mukomuko,150520,3684,668,229,42,0,1,599,10,155753
+17,1707,1707,1707,Bengkulu,Lebong,Lebong,Bengkulu-at-large,Bengkulu-at-large,No Change,Lebong,98377,354,74,0,6,0,0,402,2,99215
+17,1708,1708,1708,Bengkulu,Kepahiang,Kepahiang,Bengkulu-at-large,Bengkulu-at-large,No Change,Kepahiang,123377,571,176,201,110,11,0,69,350,124865
+17,1709,1709,1709,Bengkulu,Bengkulu Tengah,Bengkulu Tengah,Bengkulu-at-large,Bengkulu-at-large,No Change,Bengkulu Tengah,96344,1021,381,253,169,0,4,4,157,98333
+17,1771,1771,1771,Bengkulu,Bengkulu,Bengkulu,Bengkulu-at-large,Bengkulu-at-large,No Change,Kota Bengkulu,294448,9140,2494,181,1092,25,14,115,1035,308544
+18,1801,1801,1801,Lampung,Lampung Barat,Lampung Barat,Lampung-01,Lampung-01,No Change,Lampung Barat,412683,2751,532,1760,173,0,25,774,339,419037
+18,1802,1802,1802,Lampung,Tanggamus,Tanggamus,Lampung-01,Lampung-01,No Change,Tanggamus,530331,1560,2492,772,387,26,14,310,721,536613
+18,1803,1803,1803,Lampung,Lampung Selatan,Lampung Selatan,Lampung-01,Lampung-01,No Change,Lampung Selatan,873654,12829,5598,15014,1116,34,129,267,3849,912490
+18,1804,1804,1804,Lampung,Lampung Timur,Lampung Timur,Lampung-02,Lampung-02,No Change,Lampung Timur,913200,13247,5909,16513,2236,49,22,130,333,951639
+18,1805,1805,1805,Lampung,Lampung Tengah,Lampung Tengah,Lampung-02,Lampung-02,No Change,Lampung Tengah,1093801,15815,14715,40379,1818,54,55,0,4080,1170717
+18,1806,1806,1806,Lampung,Lampung Utara,Lampung Utara,Lampung-02,Lampung-02,No Change,Lampung Utara,570594,6160,3989,2416,662,33,8,48,367,584277
+18,1807,1807,1807,Lampung,Way Kanan,Way Kanan,Lampung-02,Lampung-02,No Change,Way Kanan,386262,4265,3169,11784,200,6,119,259,59,406123
+18,1808,1808,1808,Lampung,Tulang Bawang,Tulang Bawang,Lampung-02,Lampung-02,No Change,Tulangbawang,375274,7847,2724,10686,357,19,21,726,252,397906
+18,1809,1809,1809,Lampung,Pesawaran,Pesawaran,Lampung-01,Lampung-01,No Change,Pesawaran,389577,3618,2183,359,1467,8,30,0,1606,398848
+18,1810,1810,1810,Lampung,Pringsewu,Pringsewu,Lampung-01,Lampung-01,No Change,Pringsewu,350297,2875,7316,2561,599,21,188,29,1483,365369
+18,1811,1811,1811,Lampung,Mesuji,Mesuji,Lampung-02,Lampung-02,No Change,Mesuji,178733,2599,658,4742,192,3,15,465,0,187407
+18,1812,1812,1812,Lampung,Tulang Bawang Barat,Tulang Bawang Barat,Lampung-02,Lampung-02,No Change,Tulangbawang Barat,238659,6601,1969,3015,311,11,6,133,2,250707
+18,1801,1813,1813,Lampung,Pesisir Barat,Pesisir Barat,Lampung-01,Lampung-01,No Change,Lampung Barat,412683,2751,532,1760,173,0,25,774,339,419037
+18,1871,1871,1871,Lampung,Bandar Lampung,Bandar Lampung,Lampung-01,Lampung-01,No Change,Kota Bandar Lampung,816807,31345,14049,3111,13016,326,32,297,2818,881801
+18,1872,1872,1872,Lampung,Metro,Metro,Lampung-01,Lampung-01,No Change,Kota Metro,134911,3743,3711,400,1588,6,0,4,1108,145471
+19,1901,1901,1901,Kepulauan Bangka Belitung,Bangka,Bangka,Babel-at-large,Babel-at-large,No Change,Bangka,234992,5827,2567,23,16592,15715,307,125,1056,277204
+19,1902,1902,1902,Kepulauan Bangka Belitung,Belitung,Belitung,Babel-at-large,Babel-at-large,No Change,Belitung,143051,2198,873,672,8784,98,4,34,251,155965
+19,1903,1903,1903,Kepulauan Bangka Belitung,Bangka Barat,Bangka Barat,Babel-at-large,Babel-at-large,No Change,Bangka Barat,158881,2246,729,20,5374,5885,2,34,1979,175150
+19,1904,1904,1904,Kepulauan Bangka Belitung,Bangka Tengah,Bangka Tengah,Babel-at-large,Babel-at-large,No Change,Bangka Tengah,140173,3694,3999,31,5373,7765,0,137,56,161228
+19,1905,1905,1905,Kepulauan Bangka Belitung,Bangka Selatan,Bangka Selatan,Babel-at-large,Babel-at-large,No Change,Bangka Selatan,166085,1018,724,209,1859,2228,3,382,20,172528
+19,1906,1906,1906,Kepulauan Bangka Belitung,Belitung Timur,Belitung Timur,Babel-at-large,Babel-at-large,No Change,Belitung Timur,101765,1106,232,8,3093,132,6,59,62,106463
+19,1971,1971,1971,Kepulauan Bangka Belitung,Pangkal Pinang,Pangkal Pinang,Babel-at-large,Babel-at-large,No Change,Kota Pangkal Pinang,143844,5964,5614,77,10807,7967,1,91,393,174758
+21,2101,2101,2101,Kepulauan Riau,Karimun,Karimun,Kepri-at-large,Kepri-at-large,No Change,Karimun,179006,7529,2284,31,22650,629,23,6,403,212561
+21,2102,2102,2102,Kepulauan Riau,Bintan,Bintan,Kepri-at-large,Kepri-at-large,No Change,Bintan,123332,7554,2920,215,6983,568,4,112,612,142300
+21,2103,2103,2103,Kepulauan Riau,Natuna,Natuna,Kepri-at-large,Kepri-at-large,No Change,Natuna,66599,863,257,7,770,228,0,0,279,69003
+21,2104,2104,2104,Kepulauan Riau,Lingga,Lingga,Kepri-at-large,Kepri-at-large,No Change,Lingga,78355,1544,898,3,4774,585,1,0,84,86244
+21,2105,2105,2105,Kepulauan Riau,Kepulauan Anambas,Kepulauan Anambas,Kepri-at-large,Kepri-at-large,No Change,Kepulauan Anambas,34642,808,933,5,1007,10,0,0,6,37411
+21,2171,2171,2171,Kepulauan Riau,Batam,Batam,Kepri-at-large,Kepri-at-large,No Change,Kota Batam,701132,158392,28744,1075,51432,1003,162,439,1906,944285
+21,2172,2172,2172,Kepulauan Riau,Tanjung Pinang,Tanjung Pinang,Kepri-at-large,Kepri-at-large,No Change,Kota Tanjung Pinang,149135,10886,2216,205,24114,366,8,63,366,187359
+31,3101,3101,3101,DKI Jakarta,Adm. Kepulauan Seribu,Adm. Kepulauan Seribu,Jakarta-03,Jakarta-03,No Change,Kepulauan Seribu,21009,24,3,6,0,0,0,0,40,21082
+31,3171,3171,3171,DKI Jakarta,Jakarta Selatan,Jakarta Selatan,Jakarta-02,Jakarta-02,No Change,Kodya Jakarta Selatan,1896152,97872,44549,4736,11970,443,936,1523,4051,2062232
+31,3172,3172,3172,DKI Jakarta,Jakarta Timur,Jakarta Timur,Jakarta-01,Jakarta-01,No Change,Kodya Jakarta Timur,2416360,190137,57330,4511,12312,603,321,806,11516,2693896
+31,3173,3173,3173,DKI Jakarta,Jakarta Pusat,Jakarta Pusat,Jakarta-02,Jakarta-02,No Change,Kodya Jakarta Pusat,752465,76784,30195,3481,29035,538,560,136,9779,902973
+31,3174,3174,3174,DKI Jakarta,Jakarta Barat,Jakarta Barat,Jakarta-03,Jakarta-03,No Change,Kodya Jakarta Barat,1803612,205112,103681,2792,160291,2458,297,605,3097,2281945
+31,3175,3175,3175,DKI Jakarta,Jakarta Utara,Jakarta Utara,Jakarta-03,Jakarta-03,No Change,Kodya Jakarta Utara,1311198,154303,67537,4838,103919,1292,296,63,2213,1645659
+32,3201,3201,3201,Jawa Barat,Bogor,Bogor,Jabar-05,Jabar-05,No Change,Bogor,4613204,82918,25138,2763,16827,8764,574,10043,11701,4771932
+32,3202,3202,3202,Jawa Barat,Sukabumi,Sukabumi,Jabar-04,Jabar-04,No Change,Sukabumi,2332841,4892,1424,47,757,203,20,550,675,2341409
+32,3203,3203,3203,Jawa Barat,Cianjur,Cianjur,Jabar-03,Jabar-03,No Change,Cianjur,2152897,9729,2522,154,2192,70,101,2489,1127,2171281
+32,3204,3204,3204,Jawa Barat,Bandung,Bandung,Jabar-02,Jabar-02,No Change,Bandung,3104184,45734,14608,810,2364,150,971,6691,3031,3178543
+32,3205,3205,3205,Jawa Barat,Garut,Garut,Jabar-11,Jabar-11,No Change,Garut,2394460,3506,865,50,390,25,271,2883,1671,2404121
+32,3206,3206,3206,Jawa Barat,Tasikmalaya,Tasikmalaya,Jabar-11,Jabar-11,No Change,Tasikmalaya,1670540,479,292,8,26,3,75,2422,1830,1675675
+32,3207,3207,3207,Jawa Barat,Ciamis,Ciamis,Jabar-10,Jabar-10,No Change,Ciamis,1528337,1735,457,17,111,150,159,915,623,1532504
+32,3208,3208,3208,Jawa Barat,Kuningan,Kuningan,Jabar-10,Jabar-10,No Change,Kuningan,1023868,1944,5159,19,194,28,409,1455,2513,1035589
+32,3209,3209,3209,Jawa Barat,Cirebon,Cirebon,Jabar-08,Jabar-08,No Change,Cirebon,2056304,6766,2250,121,454,28,32,356,885,2067196
+32,3210,3210,3210,Jawa Barat,Majalengka,Majalengka,Jabar-09,Jabar-09,No Change,Majalengka,1162330,2829,385,23,152,13,45,18,678,1166473
+32,3211,3211,3211,Jawa Barat,Sumedang,Sumedang,Jabar-09,Jabar-09,No Change,Sumedang,1081867,4997,733,272,399,21,24,2480,2809,1093602
+32,3212,3212,3212,Jawa Barat,Indramayu,Indramayu,Jabar-08,Jabar-08,No Change,Indramayu,1648634,4840,929,85,188,42,30,4353,4636,1663737
+32,3213,3213,3213,Jawa Barat,Subang,Subang,Jabar-09,Jabar-09,No Change,Subang,1455229,4382,1237,31,326,45,43,1578,2286,1465157
+32,3214,3214,3214,Jawa Barat,Purwakarta,Purwakarta,Jabar-07,Jabar-07,No Change,Purwakarta,841552,5980,1518,502,519,79,29,529,1813,852521
+32,3215,3215,3215,Jawa Barat,Karawang,Karawang,Jabar-07,Jabar-07,No Change,Karawang,2088849,22940,4738,459,5277,296,71,1931,3230,2127791
+32,3216,3216,3216,Jawa Barat,Bekasi,Bekasi,Jabar-07,Jabar-07,No Change,Bekasi,2508492,80636,19594,1920,11769,475,312,7053,150,2630401
+32,3217,3217,3217,Jawa Barat,Bandung Barat,Bandung Barat,Jabar-02,Jabar-02,No Change,Bandung Barat,1484802,15242,4586,491,481,67,540,69,4006,1510284
+32,3207,3218,3218,Jawa Barat,Pangandaran,Pangandaran,Jabar-10,Jabar-10,No Change,Ciamis,1528337,1735,457,17,111,150,159,915,623,1532504
+32,3271,3271,3271,Jawa Barat,Bogor,Bogor,Jabar-03,Jabar-03,No Change,Kota Bogor,881721,36506,18721,1250,7506,596,75,1978,1981,950334
+32,3272,3272,3272,Jawa Barat,Sukabumi,Sukabumi,Jabar-04,Jabar-04,No Change,Kota Sukabumi,285592,6322,2729,52,2726,38,24,31,1167,298681
+32,3273,3273,3273,Jawa Barat,Bandung,Bandung,Jabar-01,Jabar-01,No Change,Kota Bandung,2195994,128371,46719,2146,11732,622,363,4544,4382,2394873
+32,3274,3274,3274,Jawa Barat,Cirebon,Cirebon,Jabar-08,Jabar-08,No Change,Kota Cirebon,272740,14017,5778,108,2172,101,21,108,1344,296389
+32,3275,3275,3275,Jawa Barat,Bekasi,Bekasi,Jabar-06,Jabar-06,No Change,Kota Bekasi,2063007,178584,55813,4339,20429,548,819,8824,2508,2334871
+32,3276,3276,3276,Jawa Barat,Depok,Depok,Jabar-06,Jabar-06,No Change,Kota Depok,1611602,85327,25588,3147,4962,2036,227,4437,1244,1738570
+32,3277,3277,3277,Jawa Barat,Cimahi,Cimahi,Jabar-01,Jabar-01,No Change,Kota Cimahi,505730,22575,7547,611,829,71,265,789,2760,541177
+32,3278,3278,3278,Jawa Barat,Tasikmalaya,Tasikmalaya,Jabar-11,Jabar-11,No Change,Kota Tasikmalaya,625620,6820,1371,41,730,153,141,72,516,635464
+32,3279,3279,3279,Jawa Barat,Banjar,Banjar,Jabar-10,Jabar-10,No Change,Kota Banjar,173196,1201,174,15,39,99,16,270,147,175157
+33,3301,3301,3301,Jawa Tengah,Cilacap,Cilacap,Jateng-08,Jateng-08,No Change,Cilacap,1612218,15496,7016,145,2131,68,1094,0,3939,1642107
+33,3302,3302,3302,Jawa Tengah,Banyumas,Banyumas,Jateng-08,Jateng-08,No Change,Banyumas,1525427,16302,9604,356,1714,177,68,1,878,1554527
+33,3303,3303,3303,Jawa Tengah,Purbalingga,Purbalingga,Jateng-07,Jateng-07,No Change,Purbalingga,841826,4876,1885,16,70,42,59,0,178,848952
+33,3304,3304,3304,Jawa Tengah,Banjarnegara,Banjarnegara,Jateng-07,Jateng-07,No Change,Banjarnegara,863181,3575,1028,36,584,16,170,0,323,868913
+33,3305,3305,3305,Jawa Tengah,Kebumen,Kebumen,Jateng-07,Jateng-07,No Change,Kebumen,1145767,7313,3658,38,2030,33,272,0,815,1159926
+33,3306,3306,3306,Jawa Tengah,Purworejo,Purworejo,Jateng-06,Jateng-06,No Change,Purworejo,678168,7621,6624,61,723,47,56,0,2127,695427
+33,3307,3307,3307,Jawa Tengah,Wonosobo,Wonosobo,Jateng-06,Jateng-06,No Change,Wonosobo,744199,5006,3036,218,701,28,27,0,1668,754883
+33,3308,3308,3308,Jawa Tengah,Magelang,Magelang,Jateng-06,Jateng-06,No Change,Magelang,1136998,10249,21577,199,277,24,565,0,11834,1181723
+33,3309,3309,3309,Jawa Tengah,Boyolali,Boyolali,Jateng-05,Jateng-05,No Change,Boyolali,908402,12500,3687,1986,2374,5,26,0,1551,930531
+33,3310,3310,3310,Jawa Tengah,Klaten,Klaten,Jateng-05,Jateng-05,No Change,Klaten,1062043,28333,33457,5194,273,7,47,0,693,1130047
+33,3311,3311,3311,Jawa Tengah,Sukoharjo,Sukoharjo,Jateng-05,Jateng-05,No Change,Sukoharjo,776983,29692,12095,407,597,32,58,0,4374,824238
+33,3312,3312,3312,Jawa Tengah,Wonogiri,Wonogiri,Jateng-04,Jateng-04,No Change,Wonogiri,905318,11779,9735,50,1773,4,22,0,223,928904
+33,3313,3313,3313,Jawa Tengah,Karanganyar,Karanganyar,Jateng-04,Jateng-04,No Change,Karanganyar,774020,22386,11765,2906,382,9,30,0,1698,813196
+33,3314,3314,3314,Jawa Tengah,Sragen,Sragen,Jateng-04,Jateng-04,No Change,Sragen,838958,10356,5406,1001,229,10,26,0,2280,858266
+33,3315,3315,3315,Jawa Tengah,Grobogan,Grobogan,Jateng-03,Jateng-03,No Change,Grobogan,1291406,11048,3049,155,1071,84,6,0,1877,1308696
+33,3316,3316,3316,Jawa Tengah,Blora,Blora,Jateng-03,Jateng-03,No Change,Blora,816688,8158,2910,48,226,63,110,0,1525,829728
+33,3317,3317,3317,Jawa Tengah,Rembang,Rembang,Jateng-03,Jateng-03,No Change,Rembang,579874,2986,2303,52,585,44,33,0,5482,591359
+33,3318,3318,3318,Jawa Tengah,Pati,Pati,Jateng-03,Jateng-03,No Change,Pati,1154431,26478,3141,98,3191,23,1351,0,2280,1190993
+33,3319,3319,3319,Jawa Tengah,Kudus,Kudus,Jateng-02,Jateng-02,No Change,Kudus,757833,11194,3731,28,1039,20,161,0,3431,777437
+33,3320,3320,3320,Jawa Tengah,Jepara,Jepara,Jateng-02,Jateng-02,No Change,Jepara,1066591,21854,971,489,4070,26,56,0,3223,1097280
+33,3321,3321,3321,Jawa Tengah,Demak,Demak,Jateng-02,Jateng-02,No Change,Demak,1041086,8151,2849,82,217,15,0,1,3178,1055579
+33,3322,3322,3322,Jawa Tengah,Semarang,Semarang,Jateng-01,Jateng-01,No Change,Semarang,868084,32060,22064,311,4884,63,512,0,2749,930727
+33,3323,3323,3323,Jawa Tengah,Temanggung,Temanggung,Jateng-06,Jateng-06,No Change,Temanggung,679193,14570,5663,52,7691,23,258,0,1096,708546
+33,3324,3324,3324,Jawa Tengah,Kendal,Kendal,Jateng-01,Jateng-01,No Change,Kendal,885191,4898,3355,334,267,23,40,0,6205,900313
+33,3325,3325,3325,Jawa Tengah,Batang,Batang,Jateng-10,Jateng-10,No Change,Batang,702605,1876,1455,32,120,26,2,0,648,706764
+33,3326,3326,3326,Jawa Tengah,Pekalongan,Pekalongan,Jateng-10,Jateng-10,No Change,Pekalongan,834637,2440,817,442,99,20,54,0,112,838621
+33,3327,3327,3327,Jawa Tengah,Pemalang,Pemalang,Jateng-10,Jateng-10,No Change,Pemalang,1254669,4620,1331,72,194,13,149,1,304,1261353
+33,3328,3328,3328,Jawa Tengah,Tegal,Tegal,Jateng-09,Jateng-09,No Change,Tegal,1386690,4459,2264,343,471,206,43,2,361,1394839
+33,3329,3329,3329,Jawa Tengah,Brebes,Brebes,Jateng-09,Jateng-09,No Change,Brebes,1724709,3534,1307,34,232,84,71,1,3897,1733869
+33,3371,3371,3371,Jawa Tengah,Magelang,Magelang,Jateng-06,Jateng-06,No Change,Kota Magelang,97585,10971,5902,132,427,54,23,0,3133,118227
+33,3372,3372,3372,Jawa Tengah,Surakarta,Surakarta,Jateng-05,Jateng-05,No Change,Kota Surakarta,393375,68844,33014,364,1208,151,37,0,2344,499337
+33,3373,3373,3373,Jawa Tengah,Salatiga,Salatiga,Jateng-01,Jateng-01,No Change,Kota Salatiga,129894,30443,8069,106,792,28,16,0,984,170332
+33,3374,3374,3374,Jawa Tengah,Semarang,Semarang,Jateng-01,Jateng-01,No Change,Kota Semarang,1350310,107519,77319,1548,10013,1061,205,0,8009,1555984
+33,3375,3375,3375,Jawa Tengah,Pekalongan,Pekalongan,Jateng-10,Jateng-10,No Change,Kota Pekalongan,270632,5801,2992,56,1237,151,8,1,556,281434
+33,3376,3376,3376,Jawa Tengah,Tegal,Tegal,Jateng-09,Jateng-09,No Change,Kota Tegal,229350,5129,2840,57,1117,315,2,0,789,239599
+34,3401,3401,3401,D I Yogyakarta,Kulon Progo,Kulon Progo,DIY-at-large,DIY-at-large,No Change,Kulon Progo,366747,5107,16224,25,599,0,8,49,110,388869
+34,3402,3402,3402,D I Yogyakarta,Bantul,Bantul,DIY-at-large,DIY-at-large,No Change,Bantul,868326,13995,26790,1125,274,26,50,468,449,911503
+34,3403,3403,3403,D I Yogyakarta,Gunung Kidul,Gunung Kidul,DIY-at-large,DIY-at-large,No Change,Gunung Kidul,649209,11938,11954,1171,524,3,324,50,209,675382
+34,3404,3404,3404,D I Yogyakarta,Sleman,Sleman,DIY-at-large,DIY-at-large,No Change,Sleman,971414,38910,74287,2176,1000,62,80,2430,2751,1093110
+34,3471,3471,3471,D I Yogyakarta,Yogyakarta,Yogyakarta,DIY-at-large,DIY-at-large,No Change,Kota Yogyakarta,323433,24318,36494,760,1145,68,44,1560,805,388627
+35,3501,3501,3501,Jawa Timur,Pacitan,Pacitan,Jatim-07,Jatim-07,No Change,Pacitan,538079,759,257,29,11,183,11,2,1550,540881
+35,3502,3502,3502,Jawa Timur,Ponorogo,Ponorogo,Jatim-07,Jatim-07,No Change,Ponorogo,839127,2864,2268,82,261,14,25,32,10608,855281
+35,3503,3503,3503,Jawa Timur,Trenggalek,Trenggalek,Jatim-07,Jatim-07,No Change,Trenggalek,669341,1607,316,41,38,11,0,1426,1631,674411
+35,3504,3504,3504,Jawa Timur,Tulungagung,Tulungagung,Jatim-06,Jatim-06,No Change,Tulungagung,972477,11776,2561,140,844,60,188,570,1542,990158
+35,3505,3505,3505,Jawa Timur,Blitar,Blitar,Jatim-06,Jatim-06,No Change,Blitar,1075727,14815,10249,12050,2403,16,42,406,931,1116639
+35,3506,3506,3506,Jawa Timur,Kediri,Kediri,Jatim-06,Jatim-06,No Change,Kediri,1444072,32139,6280,5794,276,84,184,266,10673,1499768
+35,3507,3507,3507,Jawa Timur,Malang,Malang,Jatim-05,Jatim-05,No Change,Malang,2346252,58185,11673,10400,2321,83,133,2696,14475,2446218
+35,3508,3508,3508,Jawa Timur,Lumajang,Lumajang,Jatim-04,Jatim-04,No Change,Lumajang,982104,10187,2076,6077,418,33,44,715,4804,1006458
+35,3509,3509,3509,Jawa Timur,Jember,Jember,Jatim-04,Jatim-04,No Change,Jember,2288106,19247,6754,1757,1049,343,86,240,15144,2332726
+35,3510,3510,3510,Jawa Timur,Banyuwangi,Banyuwangi,Jatim-03,Jatim-03,No Change,Banyuwangi,1495024,17061,3858,27318,3880,427,146,525,7839,1556078
+35,3511,3511,3511,Jawa Timur,Bondowoso,Bondowoso,Jatim-03,Jatim-03,No Change,Bondowoso,727655,3397,1030,170,277,38,0,561,3644,736772
+35,3512,3512,3512,Jawa Timur,Situbondo,Situbondo,Jatim-03,Jatim-03,No Change,Situbondo,625048,4528,1150,147,269,40,11,2,16424,647619
+35,3513,3513,3513,Jawa Timur,Probolinggo,Probolinggo,Jatim-02,Jatim-02,No Change,Probolinggo,1065828,2391,918,14008,249,23,61,291,12475,1096244
+35,3514,3514,3514,Jawa Timur,Pasuruan,Pasuruan,Jatim-02,Jatim-02,No Change,Pasuruan,1458440,7651,1913,15955,411,55,36,843,27164,1512468
+35,3515,3515,3515,Jawa Timur,Sidoarjo,Sidoarjo,Jatim-01,Jatim-01,No Change,Sidoarjo,1849794,56662,21932,3629,3493,440,84,1110,4353,1941497
+35,3516,3516,3516,Jawa Timur,Mojokerto,Mojokerto,Jatim-08,Jatim-08,No Change,Mojokerto,1011917,9361,1186,638,443,53,29,981,835,1025443
+35,3517,3517,3517,Jawa Timur,Jombang,Jombang,Jatim-08,Jatim-08,No Change,Jombang,1169417,15389,1431,657,797,110,19,3170,11417,1202407
+35,3518,3518,3518,Jawa Timur,Nganjuk,Nganjuk,Jatim-08,Jatim-08,No Change,Nganjuk,1004524,6258,2049,379,210,56,60,486,3008,1017030
+35,3519,3519,3519,Jawa Timur,Madiun,Madiun,Jatim-08,Jatim-08,No Change,Madiun,654444,5645,1203,46,53,3,19,72,793,662278
+35,3520,3520,3520,Jawa Timur,Magetan,Magetan,Jatim-07,Jatim-07,No Change,Magetan,606985,4919,1290,107,550,11,26,625,5929,620442
+35,3521,3521,3521,Jawa Timur,Ngawi,Ngawi,Jatim-07,Jatim-07,No Change,Ngawi,801534,5551,3236,56,127,16,49,1176,6020,817765
+35,3522,3522,3522,Jawa Timur,Bojonegoro,Bojonegoro,Jatim-09,Jatim-09,No Change,Bojonegoro,1196756,4591,1890,56,309,192,13,2961,3205,1209973
+35,3523,3523,3523,Jawa Timur,Tuban,Tuban,Jatim-09,Jatim-09,No Change,Tuban,1106119,5066,1557,85,449,160,6,63,4959,1118464
+35,3524,3524,3524,Jawa Timur,Lamongan,Lamongan,Jatim-10,Jatim-10,No Change,Lamongan,1172320,2964,349,279,57,12,20,2505,553,1179059
+35,3525,3525,3525,Jawa Timur,Gresik,Gresik,Jatim-10,Jatim-10,No Change,Gresik,1147746,12280,3156,1970,450,54,115,147,11124,1177042
+35,3526,3526,3526,Jawa Timur,Bangkalan,Bangkalan,Jatim-11,Jatim-11,No Change,Bangkalan,896324,1050,401,20,95,6,4,2656,6205,906761
+35,3527,3527,3527,Jawa Timur,Sampang,Sampang,Jatim-11,Jatim-11,No Change,Sampang,856487,356,64,9,25,2,10,6653,14166,877772
+35,3528,3528,3528,Jawa Timur,Pamekasan,Pamekasan,Jatim-11,Jatim-11,No Change,Pamekasan,766560,751,553,22,91,6,4,1756,26175,795918
+35,3529,3529,3529,Jawa Timur,Sumenep,Sumenep,Jatim-11,Jatim-11,No Change,Sumenep,1033854,685,478,8,118,5,0,29,7135,1042312
+35,3571,3571,3571,Jawa Timur,Kediri,Kediri,Jatim-06,Jatim-06,No Change,Kota Kediri,235891,14759,5894,248,939,136,25,0,10615,268507
+35,3572,3572,3572,Jawa Timur,Blitar,Blitar,Jatim-06,Jatim-06,No Change,Kota Blitar,119955,5510,4810,85,535,136,21,0,916,131968
+35,3573,3573,3573,Jawa Timur,Malang,Malang,Jatim-05,Jatim-05,No Change,Kota Malang,729416,46769,30360,1740,4007,287,86,341,7237,820243
+35,3574,3574,3574,Jawa Timur,Probolinggo,Probolinggo,Jatim-02,Jatim-02,No Change,Kota Probolinggo,209685,2944,2271,142,894,63,2,0,1061,217062
+35,3575,3575,3575,Jawa Timur,Pasuruan,Pasuruan,Jatim-02,Jatim-02,No Change,Kota Pasuruan,179225,2623,1493,159,1111,83,0,0,1568,186262
+35,3576,3576,3576,Jawa Timur,Mojokerto,Mojokerto,Jatim-08,Jatim-08,No Change,Kota Mojokerto,110061,6958,1546,104,1011,97,0,4,415,120196
+35,3577,3577,3577,Jawa Timur,Madiun,Madiun,Jatim-08,Jatim-08,No Change,Kota Madiun,154134,10047,5027,159,529,42,21,0,1005,170964
+35,3578,3578,3578,Jawa Timur,Surabaya,Surabaya,Jatim-01,Jatim-01,No Change,Kota Surabaya,2393070,223681,88554,7188,31166,2758,462,11700,6908,2765487
+35,3579,3579,3579,Jawa Timur,Batu,Batu,Jatim-05,Jatim-05,No Change,Kota Batu,179898,7041,2171,423,594,28,0,0,29,190184
+36,3601,3601,3601,Banten,Pandeglang,Pandeglang,Banten-01,Banten-01,No Change,Pandeglang,1147436,712,183,11,251,4,0,0,1013,1149610
+36,3602,3602,3602,Banten,Lebak,Lebak,Banten-01,Banten-01,No Change,Lebak,1185077,1328,704,12,1496,23,11457,0,3998,1204095
+36,3603,3603,3603,Banten,Tangerang,Tangerang,Banten-03,Banten-03,No Change,Tangerang,2667088,80858,29924,1911,48123,1052,115,7,5298,2834376
+36,3604,3604,3604,Banten,Serang,Serang,Banten-02,Banten-02,No Change,Serang,1385503,6479,1684,289,506,60,0,2,8295,1402818
+36,3671,3671,3671,Banten,Tangerang,Tangerang,Banten-03,Banten-03,No Change,Kota Tangerang,1587272,95240,40921,2676,66455,1243,82,4,4708,1798601
+36,3672,3672,3672,Banten,Cilegon,Cilegon,Banten-02,Banten-02,No Change,Kota Cilegon,364628,5857,1425,223,1285,21,1,0,1119,374559
+36,3673,3673,3673,Banten,Serang,Serang,Banten-02,Banten-02,No Change,Kota Serang,566575,5235,2193,246,1943,42,0,0,1551,577785
+36,3674,3674,3674,Banten,Tangerang Selatan,Tangerang Selatan,Banten-03,Banten-03,No Change,Kota Tangerang Selatan,1162204,73181,38831,2821,11163,787,67,3,1265,1290322
+51,5101,5101,5101,Bali,Jembrana,Jembrana,Bali-at-large,Bali-at-large,No Change,Jembrana,69608,2890,1865,186319,756,2,0,0,198,261638
+51,5102,5102,5102,Bali,Tabanan,Tabanan,Bali-at-large,Bali-at-large,No Change,Tabanan,26070,2691,1195,389125,1533,14,2,0,283,420913
+51,5103,5103,5103,Bali,Badung,Badung,Bali-at-large,Bali-at-large,No Change,Badung,96166,18396,10234,414863,2475,32,125,1,1040,543332
+51,5104,5104,5104,Bali,Gianyar,Gianyar,Bali-at-large,Bali-at-large,No Change,Gianyar,18834,1692,667,447225,799,28,41,0,491,469777
+51,5105,5105,5105,Bali,Klungkung,Klungkung,Bali-at-large,Bali-at-large,No Change,Klungkung,7794,372,138,161589,430,0,0,0,220,170543
+51,5106,5106,5106,Bali,Bangli,Bangli,Bali-at-large,Bali-at-large,No Change,Bangli,2185,197,56,212325,113,1,0,0,476,215353
+51,5107,5107,5107,Bali,Karang Asem,Karang Asem,Bali-at-large,Bali-at-large,No Change,Karang Asem,16221,398,197,379113,334,1,4,0,219,396487
+51,5108,5108,5108,Bali,Buleleng,Buleleng,Bali-at-large,Bali-at-large,No Change,Buleleng,57467,3132,916,557532,3127,97,15,0,1839,624125
+51,5171,5171,5171,Bali,Denpasar,Denpasar,Bali-at-large,Bali-at-large,No Change,Kota Denpasar,225899,34686,16129,499192,11589,252,95,0,747,788589
+52,5201,5201,5201,Nusa Tenggara Barat,Lombok Barat,Lombok Barat,NTB-02,NTB-at-large,Split District,Lombok Barat,563956,953,269,33159,1550,5,3,0,91,599986
+52,5202,5202,5202,Nusa Tenggara Barat,Lombok Tengah,Lombok Tengah,NTB-02,NTB-at-large,Split District,Lombok Tengah,855820,271,56,2917,88,0,0,0,1057,860209
+52,5203,5203,5203,Nusa Tenggara Barat,Lombok Timur,Lombok Timur,NTB-02,NTB-at-large,Split District,Lombok Timur,1104232,310,61,853,11,2,5,2,106,1105582
+52,5204,5204,5204,Nusa Tenggara Barat,Sumbawa,Sumbawa,NTB-01,NTB-at-large,Split District,Sumbawa,398502,2348,2402,11680,315,45,0,0,497,415789
+52,5205,5205,5205,Nusa Tenggara Barat,Dompu,Dompu,NTB-01,NTB-at-large,Split District,Dompu,214119,552,419,3663,17,6,0,0,197,218973
+52,5206,5206,5206,Nusa Tenggara Barat,Bima,Bima,NTB-01,NTB-at-large,Split District,Bima,436886,633,1325,309,17,10,1,0,47,439228
+52,5207,5207,5207,Nusa Tenggara Barat,Sumbawa Barat,Sumbawa Barat,NTB-01,NTB-at-large,Split District,Sumbawa Barat,112140,621,378,1264,7,2,15,0,524,114951
+52,5208,5208,5208,Nusa Tenggara Barat,Lombok Utara,Lombok Utara,NTB-02,NTB-at-large,Split District,Lombok Utara,183790,75,15,7421,8750,3,11,0,7,200072
+52,5271,5271,5271,Nusa Tenggara Barat,Mataram,Mataram,NTB-02,NTB-at-large,Split District,Kota Mataram,332259,6735,3033,56351,3840,59,5,1,560,402843
+52,5272,5272,5272,Nusa Tenggara Barat,Bima,Bima,NTB-01,NTB-at-large,Split District,Kota Bima,139580,1364,936,466,30,7,0,27,169,142579
+53,5301,5301,5301,Nusa Tenggara Timur,Sumba Barat,Sumba Barat,NTT-02,NTT-02,No Change,Sumba Barat,5126,64734,18971,174,3,3,21534,0,448,110993
+53,5302,5302,5302,Nusa Tenggara Timur,Sumba Timur,Sumba Timur,NTT-02,NTT-02,No Change,Sumba Timur,14085,162266,20612,398,18,13,29902,0,438,227732
+53,5303,5303,5303,Nusa Tenggara Timur,Kupang,Kupang,NTT-02,NTT-02,No Change,Kupang,7824,254504,41793,219,1,0,34,3,170,304548
+53,5304,5304,5304,Nusa Tenggara Timur,Timor Tengah Selatan,Timor Tengah Selatan,NTT-02,NTT-02,No Change,Timor Tengah Selatan,9293,388711,42305,185,7,1,398,1,254,441155
+53,5305,5305,5305,Nusa Tenggara Timur,Timor Tengah Utara,Timor Tengah Utara,NTT-02,NTT-02,No Change,Timor Tengah Utara,4203,18469,206532,162,6,1,1,8,421,229803
+53,5306,5306,5306,Nusa Tenggara Timur,Belu,Belu,NTT-02,NTT-02,No Change,Belu,9716,25055,316480,425,37,19,11,0,554,352297
+53,5307,5307,5307,Nusa Tenggara Timur,Alor,Alor,NTT-01,NTT-01,No Change,Alor,45105,138327,6309,116,3,2,48,49,67,190026
+53,5308,5308,5308,Nusa Tenggara Timur,Lembata,Lembata,NTT-01,NTT-01,No Change,Lembata,32356,1937,83045,64,9,0,16,0,402,117829
+53,5309,5309,5309,Nusa Tenggara Timur,Flores Timur,Flores Timur,NTT-01,NTT-01,No Change,Flores Timur,48253,2297,181220,140,9,5,16,0,665,232605
+53,5310,5310,5310,Nusa Tenggara Timur,Sikka,Sikka,NTT-01,NTT-01,No Change,Sikka,29544,4926,264380,270,68,18,7,84,1031,300328
+53,5311,5311,5311,Nusa Tenggara Timur,Ende,Ende,NTT-01,NTT-01,No Change,Ende,67166,6225,185819,251,17,1,73,73,980,260605
+53,5312,5312,5312,Nusa Tenggara Timur,Ngada,Ngada,NTT-01,NTT-01,No Change,Ngada,8777,2625,130131,139,0,1,5,4,711,142393
+53,5313,5313,5313,Nusa Tenggara Timur,Manggarai,Manggarai,NTT-01,NTT-01,No Change,Manggarai,11678,2542,276884,274,12,4,37,3,1017,292451
+53,5314,5314,5314,Nusa Tenggara Timur,Rote Ndao,Rote Ndao,NTT-02,NTT-02,No Change,Rote Ndao,5141,112501,2033,75,3,2,18,0,135,119908
+53,5315,5315,5315,Nusa Tenggara Timur,Manggarai Barat,Manggarai Barat,NTT-01,NTT-01,No Change,Manggarai Barat,42640,1644,177091,224,9,3,19,0,73,221703
+53,5316,5316,5316,Nusa Tenggara Timur,Sumba Tengah,Sumba Tengah,NTT-02,NTT-02,No Change,Sumba Tengah,2356,45143,10106,42,0,0,4817,1,20,62485
+53,5317,5317,5317,Nusa Tenggara Timur,Sumba Barat Daya,Sumba Barat Daya,NTT-02,NTT-02,No Change,Sumba Barat Daya,4502,119522,146415,103,14,8,14131,1,207,284903
+53,5318,5318,5318,Nusa Tenggara Timur,Nagekeo,Nagekeo,NTT-01,NTT-01,No Change,Nagekeo,11345,975,117547,46,0,2,2,1,202,130120
+53,5319,5319,5319,Nusa Tenggara Timur,Manggarai Timur,Manggarai Timur,NTT-01,NTT-01,No Change,Manggarai Timur,17123,1047,234167,80,1,1,18,12,295,252744
+53,5320,5320,5320,Nusa Tenggara Timur,Sabu Raijua,Sabu Raijua,NTT-02,NTT-02,No Change,Sabu Raijua,630,60916,1402,7,0,0,10005,0,0,72960
+53,5303,5321,5321,Nusa Tenggara Timur,Malaka,Malaka,NTT-02,NTT-02,No Change,Kupang,7824,254504,41793,219,1,0,34,3,170,304548
+53,5371,5371,5371,Nusa Tenggara Timur,Kupang,Kupang,NTT-02,NTT-02,No Change,Kota Kupang,47062,212791,72695,1816,101,7,37,7,1723,336239
+61,6101,6101,6101,Kalimantan Barat,Sambas,Sambas,Kalbar-01,Kalbar-at-large,Split District,Sambas,435024,8833,13916,165,31958,5623,41,141,419,496120
+61,6102,6102,6102,Kalimantan Barat,Bengkayang,Bengkayang,Kalbar-01,Kalbar-at-large,Split District,Bengkayang,78347,57072,66278,230,10969,2265,23,2,91,215277
+61,6103,6103,6103,Kalimantan Barat,Landak,Landak,Kalbar-01,Kalbar-at-large,Split District,Landak,52615,96026,178894,71,1603,207,19,38,176,329649
+61,6104,6104,6104,Kalimantan Barat,Pontianak,Pontianak,Kalbar-01,Kalbar-at-large,Split District,Pontianak,174514,15102,17731,43,23945,2258,18,16,394,234021
+61,6105,6105,6105,Kalimantan Barat,Sanggau,Sanggau,Kalbar-02,Kalbar-at-large,Split District,Sanggau,135394,65105,200798,167,3168,479,120,18,3219,408468
+61,6106,6106,6106,Kalimantan Barat,Ketapang,Ketapang,Kalbar-02,Kalbar-at-large,Split District,Ketapang,273010,31983,111909,505,4710,1032,2149,1,2161,427460
+61,6107,6107,6107,Kalimantan Barat,Sintang,Sintang,Kalbar-02,Kalbar-at-large,Split District,Sintang,135192,85782,141121,132,1946,271,70,7,238,364759
+61,6108,6108,6108,Kalimantan Barat,Kapuas Hulu,Kapuas Hulu,Kalbar-02,Kalbar-at-large,Split District,Kapuas Hulu,132180,18171,71189,55,258,231,73,3,0,222160
+61,6109,6109,6109,Kalimantan Barat,Sekadau,Sekadau,Kalbar-02,Kalbar-at-large,Split District,Sekadau,69625,24625,85529,21,1051,629,151,0,3,181634
+61,6110,6110,6110,Kalimantan Barat,Melawi,Melawi,Kalbar-02,Kalbar-at-large,Split District,Melawi,92795,40690,44033,25,970,127,3,0,2,178645
+61,6111,6111,6111,Kalimantan Barat,Kayong Utara,Kayong Utara,Kalbar-01,Kalbar-at-large,Split District,Kayong Utara,91296,1144,521,412,1020,1183,11,2,5,95594
+61,6112,6112,6112,Kalimantan Barat,Kubu Raya,Kubu Raya,Kalbar-01,Kalbar-at-large,Split District,Kubu Raya,414674,18400,27803,465,34027,3164,105,299,2033,500970
+61,6171,6171,6171,Kalimantan Barat,Pontianak,Pontianak,Kalbar-01,Kalbar-at-large,Split District,Kota Pontianak,418318,27601,33779,378,66753,7263,85,140,447,554764
+61,6172,6172,6172,Kalimantan Barat,Singkawang,Singkawang,Kalbar-01,Kalbar-at-large,Split District,Kota Singkawang,100334,9720,14867,39,55363,5005,39,4,1091,186462
+62,6201,6201,6201,Kalimantan Tengah,Kotawaringin Barat,Kotawaringin Barat,Kalteng-at-large,Kalteng-at-large,No Change,Kotawaringin Barat,216514,10326,3942,950,624,79,2889,0,479,235803
+62,6202,6202,6202,Kalimantan Tengah,Kotawaringin Timur,Kotawaringin Timur,Kalteng-at-large,Kalteng-at-large,No Change,Kotawaringin Timur,323217,21841,6352,361,1019,167,20645,78,495,374175
+62,6203,6203,6203,Kalimantan Tengah,Kapuas,Kapuas,Kalteng-at-large,Kalteng-at-large,No Change,Kapuas,269238,39253,902,4137,38,2,15868,0,208,329646
+62,6204,6204,6204,Kalimantan Tengah,Barito Selatan,Barito Selatan,Kalteng-at-large,Kalteng-at-large,No Change,Barito Selatan,87198,23295,8429,37,80,1,4893,0,195,124128
+62,6205,6205,6205,Kalimantan Tengah,Barito Utara,Barito Utara,Kalteng-at-large,Kalteng-at-large,No Change,Barito Utara,86673,14112,6026,97,19,13,14361,0,272,121573
+62,6206,6206,6206,Kalimantan Tengah,Sukamara,Sukamara,Kalteng-at-large,Kalteng-at-large,No Change,Sukamara,35486,3762,2047,68,115,54,3298,0,122,44952
+62,6207,6207,6207,Kalimantan Tengah,Lamandau,Lamandau,Kalteng-at-large,Kalteng-at-large,No Change,Lamandau,36657,15594,7052,304,14,16,3545,0,17,63199
+62,6208,6208,6208,Kalimantan Tengah,Seruyan,Seruyan,Kalteng-at-large,Kalteng-at-large,No Change,Seruyan,121616,7579,3906,2190,90,22,4517,0,11,139931
+62,6209,6209,6209,Kalimantan Tengah,Katingan,Katingan,Kalteng-at-large,Kalteng-at-large,No Change,Katingan,90064,25055,1898,27,2,3,29143,102,145,146439
+62,6210,6210,6210,Kalimantan Tengah,Pulang Pisau,Pulang Pisau,Kalteng-at-large,Kalteng-at-large,No Change,Pulang Pisau,93620,22629,865,300,11,3,2555,0,79,120062
+62,6211,6211,6211,Kalimantan Tengah,Gunung Mas,Gunung Mas,Kalteng-at-large,Kalteng-at-large,No Change,Gunung Mas,18469,60883,1251,19,23,4,16301,40,0,96990
+62,6212,6212,6212,Kalimantan Tengah,Barito Timur,Barito Timur,Kalteng-at-large,Kalteng-at-large,No Change,Barito Timur,49678,34333,7925,348,17,1,4810,0,260,97372
+62,6213,6213,6213,Kalimantan Tengah,Murung Raya,Murung Raya,Kalteng-at-large,Kalteng-at-large,No Change,Murung Raya,61393,15506,4657,14,5,16,14685,0,581,96857
+62,6271,6271,6271,Kalimantan Tengah,Palangkaraya,Palangkaraya,Kalteng-at-large,Kalteng-at-large,No Change,Kota Palangka Raya,153892,59185,3027,2297,244,33,909,0,1375,220962
+63,6301,6301,6301,Kalimantan Selatan,Tanah Laut,Tanah Laut,Kalsel-02,Kalsel-02,No Change,Tanah Laut,290060,3071,1011,1258,257,2,40,0,634,296333
+63,6302,6302,6302,Kalimantan Selatan,Kota Baru,Kota Baru,Kalsel-02,Kalsel-02,No Change,Kotabaru,267873,8860,2432,1344,2454,51,6509,0,619,290142
+63,6303,6303,6303,Kalimantan Selatan,Banjar,Banjar,Kalsel-01,Kalsel-01,No Change,Banjar,501015,1452,501,73,414,11,2273,2,1098,506839
+63,6304,6304,6304,Kalimantan Selatan,Barito Kuala,Barito Kuala,Kalsel-01,Kalsel-01,No Change,Barito Kuala,272226,968,230,1064,42,1,1,0,1615,276147
+63,6305,6305,6305,Kalimantan Selatan,Tapin,Tapin,Kalsel-01,Kalsel-01,No Change,Tapin,165364,1091,143,213,2,0,720,0,344,167877
+63,6306,6306,6306,Kalimantan Selatan,Hulu Sungai Selatan,Hulu Sungai Selatan,Kalsel-01,Kalsel-01,No Change,Hulu Sungai Selatan,208365,1069,9,21,14,0,2835,0,172,212485
+63,6307,6307,6307,Kalimantan Selatan,Hulu Sungai Tengah,Hulu Sungai Tengah,Kalsel-01,Kalsel-01,No Change,Hulu Sungai Tengah,234710,790,36,2699,26,2,3226,0,1971,243460
+63,6308,6308,6308,Kalimantan Selatan,Hulu Sungai Utara,Hulu Sungai Utara,Kalsel-01,Kalsel-01,No Change,Hulu Sungai Utara,208890,81,8,18,9,0,0,0,240,209246
+63,6309,6309,6309,Kalimantan Selatan,Tabalong,Tabalong,Kalsel-01,Kalsel-01,No Change,Tabalong,209129,5903,1656,1313,25,1,15,0,578,218620
+63,6310,6310,6310,Kalimantan Selatan,Tanah Bumbu,Tanah Bumbu,Kalsel-02,Kalsel-02,No Change,Tanah Bumbu,255153,3379,1806,5787,132,23,812,0,837,267929
+63,6311,6311,6311,Kalimantan Selatan,Balangan,Balangan,Kalsel-01,Kalsel-01,No Change,Balangan,106040,758,196,1489,3910,6,26,0,5,112430
+63,6371,6371,6371,Kalimantan Selatan,Banjarmasin,Banjarmasin,Kalsel-02,Kalsel-02,No Change,Kota Banjarmasin,597556,15095,6484,437,4262,122,3,0,1522,625481
+63,6372,6372,6372,Kalimantan Selatan,Banjar Baru,Banjar Baru,Kalsel-02,Kalsel-02,No Change,Kota Banjarbaru,189465,5457,1533,348,128,17,5,1,2673,199627
+64,6401,6401,6401,Kalimantan Timur,Pasir,Pasir,Kaltim-at-large,Kaltim-at-large,No Change,Paser,215270,6683,4722,372,434,5,148,107,2575,230316
+64,6402,6402,6402,Kalimantan Timur,Kutai Barat,Kutai Barat,Kaltim-at-large,Kaltim-at-large,No Change,Kutai Barat,70120,47529,46953,101,26,6,252,104,0,165091
+64,6403,6403,6403,Kalimantan Timur,Kutai Kartanegara,Kutai Kartanegara,Kaltim-at-large,Kaltim-at-large,No Change,Kutai Kartanegara,577072,36007,8561,2381,153,35,154,216,2101,626680
+64,6404,6404,6404,Kalimantan Timur,Kutai Timur,Kutai Timur,Kaltim-at-large,Kaltim-at-large,No Change,Kutai Timur,213892,26861,12883,1826,82,15,21,0,57,255637
+64,6405,6405,6405,Kalimantan Timur,Berau,Berau,Kaltim-at-large,Kaltim-at-large,No Change,Berau,151822,16817,9112,123,578,45,31,1,550,179079
+64,6409,6409,6409,Kalimantan Timur,Penajam Paser Utara,Penajam Paser Utara,Kaltim-at-large,Kaltim-at-large,No Change,Penajam Paser Utara,135624,5793,1203,74,21,3,0,204,0,142922
+64,6402,6411,6411,Kalimantan Timur,Mahakam Hulu,Mahakam Hulu,Kaltim-at-large,Kaltim-at-large,No Change,Kutai Barat,70120,47529,46953,101,26,6,252,104,0,165091
+64,6471,6471,6471,Kalimantan Timur,Balikpapan,Balikpapan,Kaltim-at-large,Kaltim-at-large,No Change,Kota Balikpapan,501599,37820,8187,1313,4875,196,178,409,3002,557579
+64,6472,6472,6472,Kalimantan Timur,Samarinda,Samarinda,Kaltim-at-large,Kaltim-at-large,No Change,Kota Samarinda,661544,38180,15426,859,6228,595,39,355,4274,727500
+64,6474,6474,6474,Kalimantan Timur,Bontang,Bontang,Kaltim-at-large,Kaltim-at-large,No Change,Kota Bontang,128284,12332,2216,320,80,5,1,101,344,143683
+65,6406,6501,6501,Kalimantan Utara,Malinau,Malinau,Kalut-at-large,Kaltim-at-large,Split District,Malinau,19679,36161,5553,30,201,1,0,33,922,62580
+65,6407,6502,6502,Kalimantan Utara,Bulungan,Bulungan,Kalut-at-large,Kaltim-at-large,Split District,Bulungan,79726,25316,6788,71,557,0,2,12,191,112663
+65,6410,6503,6503,Kalimantan Utara,Tana Tidung,Tana Tidung,Kalut-at-large,Kaltim-at-large,Split District,Tana Tidung,11516,2267,1385,2,19,1,12,0,0,15202
+65,6408,6504,6504,Kalimantan Utara,Nunukan,Nunukan,Kalut-at-large,Kaltim-at-large,Split District,Nunukan,102161,27421,10418,78,184,27,5,110,437,140841
+65,6473,6571,6571,Kalimantan Utara,Tarakan,Tarakan,Kalut-at-large,Kaltim-at-large,Split District,Kota Tarakan,165396,18193,5222,107,2918,146,6,299,1083,193370
+71,7101,7101,7101,Sulawesi Utara,Bolaang Mongondow,Bolaang Mongondow,Sulut-at-large,Sulut-at-large,No Change,Bolaang Mongondow,129531,70492,2168,11276,11,6,0,0,0,213484
+71,7102,7102,7102,Sulawesi Utara,Minahasa,Minahasa,Sulut-at-large,Sulut-at-large,No Change,Minahasa,20358,263860,24941,217,66,4,10,1,927,310384
+71,7103,7103,7103,Sulawesi Utara,Kepulauan Sangihe,Kepulauan Sangihe,Sulut-at-large,Sulut-at-large,No Change,Kepulauan Sangihe,25489,98456,1105,15,3,2,899,6,125,126100
+71,7104,7104,7104,Sulawesi Utara,Kepulauan Talaud,Kepulauan Talaud,Sulut-at-large,Sulut-at-large,No Change,Kepulauan Talaud,2606,78157,2370,6,0,1,269,0,25,83434
+71,7105,7105,7105,Sulawesi Utara,Minahasa Selatan,Minahasa Selatan,Sulut-at-large,Sulut-at-large,No Change,Minahasa Selatan,17727,171757,5782,26,36,42,4,1,178,195553
+71,7106,7106,7106,Sulawesi Utara,Minahasa Utara,Minahasa Utara,Sulut-at-large,Sulut-at-large,No Change,Minahasa Utara,35102,140919,12633,135,59,17,30,6,3,188904
+71,7107,7107,7107,Sulawesi Utara,Bolaang Mongondow Utara,Bolaang Mongondow Utara,Sulut-at-large,Sulut-at-large,No Change,Bolaang Mongondow Utara,62214,8385,74,15,2,3,0,0,0,70693
+71,7108,7108,7108,Sulawesi Utara,Kep. Siau Tagulandang Biaro (Sitaro),Kep. Siau Tagulandang Biaro (Sitaro),Sulut-at-large,Sulut-at-large,No Change,Siau Tagulandang Biaro,2027,61387,343,7,6,2,0,1,28,63801
+71,7109,7109,7109,Sulawesi Utara,Minahasa Tenggara (Mitra),Minahasa Tenggara (Mitra),Sulut-at-large,Sulut-at-large,No Change,Minahasa Tenggara,17854,81769,812,2,3,2,0,1,0,100443
+71,7110,7110,7110,Sulawesi Utara,Bolaang Mongondow Selatan,Bolaang Mongondow Selatan,Sulut-at-large,Sulut-at-large,No Change,Bolaang Mongondow Selatan,53101,3804,29,59,3,0,5,0,0,57001
+71,7111,7111,7111,Sulawesi Utara,Bolaang Mongondow Timur,Bolaang Mongondow Timur,Sulut-at-large,Sulut-at-large,No Change,Bolaang Mongondow Timur,46543,15886,1208,12,5,0,0,0,0,63654
+71,7171,7171,7171,Sulawesi Utara,Manado,Manado,Sulut-at-large,Sulut-at-large,No Change,Kota Manado,128483,254912,20603,692,2244,412,87,40,3008,410481
+71,7172,7172,7172,Sulawesi Utara,Bitung,Bitung,Sulut-at-large,Sulut-at-large,No Change,Kota Bitung,66654,113234,5824,199,362,13,31,27,1308,187652
+71,7173,7173,7173,Sulawesi Utara,Tomohon,Tomohon,Sulut-at-large,Sulut-at-large,No Change,Kota Tomohon,3536,66164,20925,41,112,1,28,0,746,91553
+71,7174,7174,7174,Sulawesi Utara,Kotamobagu,Kotamobagu,Sulut-at-large,Sulut-at-large,No Change,Kota Kotamobagu,90474,14959,1163,431,164,6,0,0,262,107459
+72,7201,7201,7201,Sulawesi Tengah,Banggai Kepulauan,Banggai Kepulauan,Sulteng-at-large,Sulteng-at-large,No Change,Banggai Kepulauan,120006,44829,6469,68,3,8,5,12,227,171627
+72,7202,7202,7202,Sulawesi Tengah,Banggai,Banggai,Sulteng-at-large,Sulteng-at-large,No Change,Banggai,246492,48344,4255,22534,381,23,137,33,1427,323626
+72,7203,7203,7203,Sulawesi Tengah,Morowali,Morowali,Sulteng-at-large,Sulteng-at-large,No Change,Morowali,149955,43781,1815,6556,126,18,1536,116,2419,206322
+72,7204,7204,7204,Sulawesi Tengah,Poso,Poso,Sulteng-at-large,Sulteng-at-large,No Change,Poso,77158,117430,1651,11816,12,2,15,4,1140,209228
+72,7205,7205,7205,Sulawesi Tengah,Donggala,Donggala,Sulteng-at-large,Sulteng-at-large,No Change,Donggala,246960,21042,333,8616,156,25,0,0,488,277620
+72,7206,7206,7206,Sulawesi Tengah,Toli-Toli,Toli-Toli,Sulteng-at-large,Sulteng-at-large,No Change,Toli-Toli,195239,10563,622,3033,1267,18,5,113,436,211296
+72,7207,7207,7207,Sulawesi Tengah,Buol,Buol,Sulteng-at-large,Sulteng-at-large,No Change,Buol,124686,3446,1443,2370,252,8,3,29,93,132330
+72,7208,7208,7208,Sulawesi Tengah,Parigi Moutong,Parigi Moutong,Sulteng-at-large,Sulteng-at-large,No Change,Parigi Moutong,333533,37565,1931,39963,110,3,11,51,421,413588
+72,7209,7209,7209,Sulawesi Tengah,Tojo Una-Una,Tojo Una-Una,Sulteng-at-large,Sulteng-at-large,No Change,Tojo Una-Una,125194,8775,165,660,61,6,844,0,2105,137810
+72,7210,7210,7210,Sulawesi Tengah,Sigi,Sigi,Sulteng-at-large,Sulteng-at-large,No Change,Sigi,140610,73131,391,207,99,0,7,88,497,215030
+72,7201,7211,7211,Sulawesi Tengah,Banggai Laut,Banggai Laut,Sulteng-at-large,Sulteng-at-large,No Change,Banggai Kepulauan,120006,44829,6469,68,3,8,5,12,227,171627
+72,7203,7212,7212,Sulawesi Tengah,Morowali Utara,Morowali Utara,Sulteng-at-large,Sulteng-at-large,No Change,Morowali,149955,43781,1815,6556,126,18,1536,116,2419,206322
+72,7271,7271,7271,Sulawesi Tengah,Palu,Palu,Sulteng-at-large,Sulteng-at-large,No Change,Kota Palu,288126,38569,2563,3756,1484,30,12,192,1800,336532
+73,7301,7301,7301,Sulawesi Selatan,Selayar,Selayar,Sulsel-01,Sulsel-01,No Change,Kepulauan Selayar,120817,727,73,136,33,9,0,41,219,122055
+73,7302,7302,7302,Sulawesi Selatan,Bulukumba,Bulukumba,Sulsel-02,Sulsel-02,No Change,Bulukumba,393636,444,151,17,171,6,2,0,133,394560
+73,7303,7303,7303,Sulawesi Selatan,Bantaeng,Bantaeng,Sulsel-01,Sulsel-01,No Change,Bantaeng,175757,538,196,8,102,5,0,3,90,176699
+73,7304,7304,7304,Sulawesi Selatan,Jeneponto,Jeneponto,Sulsel-01,Sulsel-01,No Change,Jeneponto,342244,226,14,5,0,0,0,0,211,342700
+73,7305,7305,7305,Sulawesi Selatan,Takalar,Takalar,Sulsel-01,Sulsel-01,No Change,Takalar,268995,196,41,15,46,2,0,1,307,269603
+73,7306,7306,7306,Sulawesi Selatan,Gowa,Gowa,Sulsel-01,Sulsel-01,No Change,Gowa,643300,5362,3121,104,437,31,5,60,521,652941
+73,7307,7307,7307,Sulawesi Selatan,Sinjai,Sinjai,Sulsel-02,Sulsel-02,No Change,Sinjai,228603,145,42,12,16,0,2,5,54,228879
+73,7308,7308,7308,Sulawesi Selatan,Maros,Maros,Sulsel-02,Sulsel-02,No Change,Maros,312458,4784,568,67,60,0,0,0,1065,319002
+73,7309,7309,7309,Sulawesi Selatan,Pangkajene Kepulauan,Pangkajene Kepulauan,Sulsel-02,Sulsel-02,No Change,Pangkajene Dan Kepulauan,303600,1400,128,24,50,1,0,55,479,305737
+73,7310,7310,7310,Sulawesi Selatan,Barru,Barru,Sulsel-02,Sulsel-02,No Change,Barru,165448,381,63,21,0,14,3,17,36,165983
+73,7311,7311,7311,Sulawesi Selatan,Bone,Bone,Sulsel-02,Sulsel-02,No Change,Bone,712862,1840,237,28,539,4,24,6,2142,717682
+73,7312,7312,7312,Sulawesi Selatan,Soppeng,Soppeng,Sulsel-02,Sulsel-02,No Change,Soppeng,222559,753,84,10,8,0,1,60,351,223826
+73,7313,7313,7313,Sulawesi Selatan,Wajo,Wajo,Sulsel-02,Sulsel-02,No Change,Wajo,381618,1160,80,23,72,5,1470,133,548,385109
+73,7314,7314,7314,Sulawesi Selatan,Sidenreng Rappang,Sidenreng Rappang,Sulsel-03,Sulsel-03,No Change,Sidenreng Rappang,246192,848,94,24603,14,0,0,17,143,271911
+73,7315,7315,7315,Sulawesi Selatan,Pinrang,Pinrang,Sulsel-03,Sulsel-03,No Change,Pinrang,340341,5220,3531,27,175,1,1633,0,190,351118
+73,7316,7316,7316,Sulawesi Selatan,Enrekang,Enrekang,Sulsel-03,Sulsel-03,No Change,Enrekang,188348,1237,61,8,11,2,1,0,580,190248
+73,7317,7317,7317,Sulawesi Selatan,Luwu,Luwu,Sulsel-03,Sulsel-03,No Change,Luwu,286347,42264,3422,83,22,0,13,40,291,332482
+73,7318,7318,7318,Sulawesi Selatan,Tana Toraja,Tana Toraja,Sulsel-03,Sulsel-03,No Change,Tana Toraja,26624,154545,32021,6713,37,1,1042,0,98,221081
+73,7322,7322,7322,Sulawesi Selatan,Luwu Utara,Luwu Utara,Sulsel-03,Sulsel-03,No Change,Luwu Utara,235203,39594,3983,8440,12,0,8,0,232,287472
+73,7325,7325,7325,Sulawesi Selatan,Luwu Timur,Luwu Timur,Sulsel-03,Sulsel-03,No Change,Luwu Timur,183278,39567,5229,14850,50,5,17,72,1,243069
+73,7326,7326,7326,Sulawesi Selatan,Toraja Utara,Toraja Utara,Sulsel-03,Sulsel-03,No Change,Toraja Utara,9975,177097,29471,69,1,3,143,1,2,216762
+73,7371,7371,7371,Sulawesi Selatan,Makassar,Makassar,Sulsel-01,Sulsel-01,No Change,Kota Makassar,1167188,109423,37824,1926,16961,261,315,216,4549,1338663
+73,7372,7372,7372,Sulawesi Selatan,Pare-Pare,Pare-Pare,Sulsel-02,Sulsel-02,No Change,Kota Pare-Pare,120498,5377,1672,721,726,14,4,1,249,129262
+73,7373,7373,7373,Sulawesi Selatan,Palopo,Palopo,Sulsel-03,Sulsel-03,No Change,Kota Palopo,125047,19623,2149,483,324,3,48,0,255,147932
+74,7401,7401,7401,Sulawesi Tenggara,Buton,Buton,Sultra-at-large,Sultra-at-large,No Change,Buton,251954,313,1792,1338,0,0,0,315,0,255712
+74,7402,7402,7402,Sulawesi Tenggara,Muna,Muna,Sultra-at-large,Sultra-at-large,No Change,Muna,260472,1374,2842,3256,112,0,4,52,165,268277
+74,7403,7403,7403,Sulawesi Tenggara,Konawe,Konawe,Sultra-at-large,Sultra-at-large,No Change,Konawe,227036,4705,1035,8668,49,0,0,261,228,241982
+74,7404,7404,7404,Sulawesi Tenggara,Kolaka,Kolaka,Sultra-at-large,Sultra-at-large,No Change,Kolaka,289397,13586,1865,10022,72,7,0,22,261,315232
+74,7405,7405,7405,Sulawesi Tenggara,Konawe Selatan,Konawe Selatan,Sultra-at-large,Sultra-at-large,No Change,Konawe Selatan,244560,4381,579,13589,131,0,0,122,1225,264587
+74,7406,7406,7406,Sulawesi Tenggara,Bombana,Bombana,Sultra-at-large,Sultra-at-large,No Change,Bombana,135851,1358,65,1603,6,0,2,21,329,139235
+74,7407,7407,7407,Sulawesi Tenggara,Wakatobi,Wakatobi,Sultra-at-large,Sultra-at-large,No Change,Wakatobi,92862,35,5,0,0,0,0,3,90,92995
+74,7408,7408,7408,Sulawesi Tenggara,Kolaka Utara,Kolaka Utara,Sultra-at-large,Sultra-at-large,No Change,Kolaka Utara,119759,1267,98,9,8,2,1,170,26,121340
+74,7409,7409,7409,Sulawesi Tenggara,Buton Utara,Buton Utara,Sultra-at-large,Sultra-at-large,No Change,Buton Utara,53512,89,128,972,0,1,0,34,0,54736
+74,7410,7410,7410,Sulawesi Tenggara,Konawe Utara,Konawe Utara,Sultra-at-large,Sultra-at-large,No Change,Konawe Utara,48635,508,385,1891,1,0,0,75,38,51533
+74,7404,7411,7411,Sulawesi Tenggara,Kolaka Timur,Kolaka Timur,Sultra-at-large,Sultra-at-large,No Change,Kolaka,289397,13586,1865,10022,72,7,0,22,261,315232
+74,7403,7412,7412,Sulawesi Tenggara,Konawe Kepulauan,Konawe Kepulauan,Sultra-at-large,Sultra-at-large,No Change,Konawe,227036,4705,1035,8668,49,0,0,261,228,241982
+74,7402,7402,7413,Sulawesi Tenggara,Muna,Muna Barat,Sultra-at-large,Sultra-at-large,No Change,Muna,260472,1374,2842,3256,112,0,4,52,165,268277
+74,7401,7401,7414,Sulawesi Tenggara,Buton,Buton Tengah,Sultra-at-large,Sultra-at-large,No Change,Buton,251954,313,1792,1338,0,0,0,315,0,255712
+74,7401,7401,7415,Sulawesi Tenggara,Buton,Buton Selatan,Sultra-at-large,Sultra-at-large,No Change,Buton,251954,313,1792,1338,0,0,0,315,0,255712
+74,7471,7471,7471,Sulawesi Tenggara,Kendari,Kendari,Sultra-at-large,Sultra-at-large,No Change,Kota Kendari,270853,12039,3630,1770,538,23,1,315,797,289966
+74,7472,7472,7472,Sulawesi Tenggara,Bau-bau,Bau-bau,Sultra-at-large,Sultra-at-large,No Change,Kota Bau-Bau,131235,1476,456,2323,61,15,0,81,1344,136991
+75,7501,7501,7501,Gorontalo,Boalemo,Boalemo,Gorontalo-at-large,Gorontalo-at-large,No Change,Boalemo,124959,1850,114,2188,8,2,0,0,132,129253
+75,7502,7502,7502,Gorontalo,Gorontalo,Gorontalo,Gorontalo-at-large,Gorontalo-at-large,No Change,Gorontalo,353908,1839,81,65,56,1,5,33,0,355988
+75,7503,7503,7503,Gorontalo,Pohuwato,Pohuwato,Gorontalo-at-large,Gorontalo-at-large,No Change,Pohuwato,122414,5000,103,1136,26,0,1,68,0,128748
+75,7504,7504,7504,Gorontalo,Bone Bolango,Bone Bolango,Gorontalo-at-large,Gorontalo-at-large,No Change,Bone Bolango,141563,323,11,4,8,0,1,5,0,141915
+75,7505,7505,7505,Gorontalo,Gorontalo Utara,Gorontalo Utara,Gorontalo-at-large,Gorontalo-at-large,No Change,Gorontalo Utara,100230,3664,27,19,7,1,7,54,124,104133
+75,7571,7571,7571,Gorontalo,Gorontalo,Gorontalo,Gorontalo-at-large,Gorontalo-at-large,No Change,Kota Gorontalo,174322,3883,425,200,829,7,4,45,412,180127
+76,7601,7601,7601,Sulawesi Barat,Majene,Majene,Sulbar-at-large,Sulbar-at-large,No Change,Majene,150527,240,69,12,19,13,0,103,124,151107
+76,7602,7602,7602,Sulawesi Barat,Polewali Mandar,Polewali Mandar,Sulbar-at-large,Sulbar-at-large,No Change,Polewali Mandar,388285,5935,1059,144,58,7,1,12,619,396120
+76,7603,7603,7603,Sulawesi Barat,Mamasa,Mamasa,Sulbar-at-large,Sulbar-at-large,No Change,Mamasa,23078,104480,4244,1703,0,0,6489,7,81,140082
+76,7604,7604,7604,Sulawesi Barat,Mamuju,Mamuju,Sulbar-at-large,Sulbar-at-large,No Change,Mamuju,280487,44332,4086,7328,240,15,45,239,201,336973
+76,7605,7605,7605,Sulawesi Barat,Mamuju Utara,Mamuju Utara,Sulbar-at-large,Sulbar-at-large,No Change,Mamuju Utara,115358,9680,2413,6855,9,0,0,22,32,134369
+76,7604,7606,7606,Sulawesi Barat,Mamuju Tengah,Mamuju Tengah,Sulbar-at-large,Sulbar-at-large,No Change,Mamuju,280487,44332,4086,7328,240,15,45,239,201,336973
+81,8101,8101,8101,Maluku,Maluku Tenggara Barat,Maluku Tenggara Barat,Maluku-at-large,Maluku-at-large,No Change,Maluku Tenggara Barat,5752,64431,34818,78,9,1,4,0,248,105341
+81,8102,8102,8102,Maluku,Maluku Tenggara,Maluku Tenggara,Maluku-at-large,Maluku-at-large,No Change,Maluku Tenggara,27903,25435,42604,348,1,9,0,0,142,96442
+81,8103,8103,8103,Maluku,Maluku Tengah,Maluku Tengah,Maluku-at-large,Maluku-at-large,No Change,Maluku Tengah,223715,131624,2950,1046,27,41,1308,0,987,361698
+81,8104,8104,8104,Maluku,Buru,Buru,Maluku-at-large,Maluku-at-large,No Change,Buru,92012,8658,894,2399,33,37,4006,0,406,108445
+81,8105,8105,8105,Maluku,Kepulauan Aru,Kepulauan Aru,Maluku-at-large,Maluku-at-large,No Change,Kepulauan Aru,25213,50352,7840,44,24,19,12,0,634,84138
+81,8106,8106,8106,Maluku,Seram Bagian Barat,Seram Bagian Barat,Maluku-at-large,Maluku-at-large,No Change,Seram Bagian Barat,99310,63890,1085,31,15,1,0,0,324,164656
+81,8107,8107,8107,Maluku,Seram Bagian Timur,Seram Bagian Timur,Maluku-at-large,Maluku-at-large,No Change,Seram Bagian Timur,94122,2615,1473,405,19,2,31,0,398,99065
+81,8108,8108,8108,Maluku,Maluku Barat Daya,Maluku Barat Daya,Maluku-at-large,Maluku-at-large,No Change,Maluku Barat Daya,1146,69080,417,4,5,0,23,0,39,70714
+81,8109,8109,8109,Maluku,Buru Selatan,Buru Selatan,Maluku-at-large,Maluku-at-large,No Change,Buru Selatan,35029,15712,242,830,0,0,848,0,1010,53671
+81,8171,8171,8171,Maluku,Ambon,Ambon,Maluku-at-large,Maluku-at-large,No Change,Kota Ambon,128417,192105,7943,435,120,7,44,0,2183,331254
+81,8172,8172,8172,Maluku,Tual,Tual,Maluku-at-large,Maluku-at-large,No Change,Kota Tual,43511,10939,3363,49,6,0,2,0,212,58082
+82,8201,8201,8201,Maluku Utara,Halmahera Barat,Halmahera Barat,Malut-at-large,Malut-at-large,No Change,Halmahera Barat,40902,58525,876,26,7,14,39,0,35,100424
+82,8202,8202,8202,Maluku Utara,Halmahera Tengah,Halmahera Tengah,Malut-at-large,Malut-at-large,No Change,Halmahera Tengah,34359,7907,141,3,0,0,11,0,394,42815
+82,8203,8203,8203,Maluku Utara,Kepulauan Sula,Kepulauan Sula,Malut-at-large,Malut-at-large,No Change,Kepulauan Sula,120358,9903,1791,61,3,1,32,0,375,132524
+82,8204,8204,8204,Maluku Utara,Halmahera Selatan,Halmahera Selatan,Malut-at-large,Malut-at-large,No Change,Halmahera Selatan,170641,27559,246,14,8,4,18,0,421,198911
+82,8205,8205,8205,Maluku Utara,Halmahera Utara,Halmahera Utara,Malut-at-large,Malut-at-large,No Change,Halmahera Utara,63927,96030,1386,22,15,8,13,4,442,161847
+82,8206,8206,8206,Maluku Utara,Halmahera Timur,Halmahera Timur,Malut-at-large,Malut-at-large,No Change,Halmahera Timur,46583,26036,310,22,11,4,0,0,143,73109
+82,8207,8207,8207,Maluku Utara,Morotai,Morotai,Malut-at-large,Malut-at-large,No Change,Pulau Morotai,30823,21715,57,5,2,2,1,0,92,52697
+82,8203,8208,8208,Maluku Utara,Pulau Taliabu,Pulau Taliabu,Malut-at-large,Malut-at-large,No Change,Kepulauan Sula,120358,9903,1791,61,3,1,32,0,375,132524
+82,8271,8271,8271,Maluku Utara,Ternate,Ternate,Malut-at-large,Malut-at-large,No Change,Kota Ternate,178678,5744,452,45,41,161,5,83,496,185705
+82,8272,8272,8272,Maluku Utara,Tidore Kepulauan,Tidore Kepulauan,Malut-at-large,Malut-at-large,No Change,Kota Tidore Kepulauan,84839,5052,119,2,3,18,3,0,19,90055
+91,9101,9101,9101,Papua Barat,Fak-Fak,Fak-Fak,Pabar-at-large,Pabar-at-large,No Change,Fakfak,40517,14891,10795,33,18,6,0,0,568,66828
+91,9102,9102,9102,Papua Barat,Kaimana,Kaimana,Pabar-at-large,Pabar-at-large,No Change,Kaimana,19397,22160,3956,30,9,1,0,38,658,46249
+91,9103,9103,9103,Papua Barat,Teluk Wondama,Teluk Wondama,Pabar-at-large,Pabar-at-large,No Change,Teluk Wondama,4779,21154,299,37,2,0,0,12,38,26321
+91,9104,9104,9104,Papua Barat,Teluk Bintuni,Teluk Bintuni,Pabar-at-large,Pabar-at-large,No Change,Teluk Bintuni,23808,19331,8180,27,57,5,0,0,1014,52422
+91,9105,9105,9105,Papua Barat,Manokwari,Manokwari,Pabar-at-large,Pabar-at-large,No Change,Manokwari,57747,121933,7160,296,98,2,0,262,228,187726
+91,9106,9106,9106,Papua Barat,Sorong Selatan,Sorong Selatan,Pabar-at-large,Pabar-at-large,No Change,Sorong Selatan,8211,29225,256,13,0,0,0,0,195,37900
+91,9107,9107,9107,Papua Barat,Sorong,Sorong,Pabar-at-large,Pabar-at-large,No Change,Sorong,38996,28473,2744,208,22,11,0,0,165,70619
+91,9108,9108,9108,Papua Barat,Raja Ampat,Raja Ampat,Pabar-at-large,Pabar-at-large,No Change,Raja Ampat,13530,28624,322,27,4,0,0,0,0,42507
+91,9109,9109,9109,Papua Barat,Tambrauw,Tambrauw,Pabar-at-large,Pabar-at-large,No Change,Tambrauw,201,4866,1024,0,0,0,0,0,53,6144
+91,9110,9110,9110,Papua Barat,Maybrat,Maybrat,Pabar-at-large,Pabar-at-large,No Change,Maybrat,224,26504,6262,0,0,0,0,0,91,33081
+91,9105,9111,9111,Papua Barat,Manokwari Selatan,Manokwari Selatan,Pabar-at-large,Pabar-at-large,No Change,Manokwari,57747,121933,7160,296,98,2,0,262,228,187726
+91,9105,9112,9112,Papua Barat,Pegunungan Arfak,Pegunungan Arfak,Pabar-at-large,Pabar-at-large,No Change,Manokwari,57747,121933,7160,296,98,2,0,262,228,187726
+91,9171,9171,9171,Papua Barat,Sorong,Sorong,Pabar-at-large,Pabar-at-large,No Change,Kota Sorong,84616,91680,12465,188,391,0,0,29,1256,190625
+94,9401,9401,9401,Papua,Merauke,Merauke,Papua-at-large,Papua-at-large,No Change,Merauke,91209,30399,72609,400,178,13,58,0,850,195716
+94,9402,9402,9402,Papua,Jayawijaya,Jayawijaya,Papua-at-large,Papua-at-large,No Change,Jayawijaya,10590,118919,66077,84,3,1,0,0,411,196085
+94,9403,9403,9403,Papua,Jayapura,Jayapura,Papua-at-large,Papua-at-large,No Change,Jayapura,29188,76610,4675,330,116,9,0,0,1015,111943
+94,9404,9404,9404,Papua,Nabire,Nabire,Papua-at-large,Papua-at-large,No Change,Nabire,50700,65044,12956,268,139,5,13,0,768,129893
+94,9408,9408,9408,Papua,Yapen Waropen,Yapen Waropen,Papua-at-large,Papua-at-large,No Change,Kepulauan Yapen,12160,69149,647,27,8,1,11,0,948,82951
+94,9409,9409,9409,Papua,Biak Numfor,Biak Numfor,Papua-at-large,Papua-at-large,No Change,Biak Numfor,20377,103042,2615,131,215,7,89,0,322,126798
+94,9410,9410,9410,Papua,Paniai,Paniai,Papua-at-large,Papua-at-large,No Change,Paniai,2553,112098,36373,28,6,11,0,0,2363,153432
+94,9411,9411,9411,Papua,Puncak Jaya,Puncak Jaya,Papua-at-large,Papua-at-large,No Change,Puncak Jaya,1052,99873,214,3,6,0,0,0,0,101148
+94,9412,9412,9412,Papua,Mimika,Mimika,Papua-at-large,Papua-at-large,No Change,Mimika,59368,71416,37413,233,97,0,0,0,13474,182001
+94,9413,9413,9413,Papua,Boven Digoel,Boven Digoel,Papua-at-large,Papua-at-large,No Change,Boven Digoel,11073,15715,28590,29,35,0,0,0,342,55784
+94,9414,9414,9414,Papua,Mappi,Mappi,Papua-at-large,Papua-at-large,No Change,Mappi,6220,16636,58477,35,16,11,0,0,263,81658
+94,9415,9415,9415,Papua,Asmat,Asmat,Papua-at-large,Papua-at-large,No Change,Asmat,4051,29814,42657,13,3,3,0,21,15,76577
+94,9416,9416,9416,Papua,Yahukimo,Yahukimo,Papua-at-large,Papua-at-large,No Change,Yahukimo,1599,160350,2553,8,2,0,0,0,0,164512
+94,9417,9417,9417,Papua,Pegunungan Bintang,Pegunungan Bintang,Papua-at-large,Papua-at-large,No Change,Pegunungan Bintang,761,45478,19194,1,0,0,0,0,0,65434
+94,9418,9418,9418,Papua,Tolikara,Tolikara,Papua-at-large,Papua-at-large,No Change,Tolikara,475,113763,78,0,0,0,0,0,111,114427
+94,9419,9419,9419,Papua,Sarmi,Sarmi,Papua-at-large,Papua-at-large,No Change,Sarmi,7507,24529,521,18,10,0,0,0,386,32971
+94,9420,9420,9420,Papua,Keerom,Keerom,Papua-at-large,Papua-at-large,No Change,Keerom,22326,12967,11996,274,7,0,1,0,965,48536
+94,9426,9426,9426,Papua,Waropen,Waropen,Papua-at-large,Papua-at-large,No Change,Waropen,3363,21008,267,0,1,0,0,0,0,24639
+94,9427,9427,9427,Papua,Supiori,Supiori,Papua-at-large,Papua-at-large,No Change,Supiori,201,15640,11,3,0,0,0,0,19,15874
+94,9428,9428,9428,Papua,Mamberamo Raya,Mamberamo Raya,Papua-at-large,Papua-at-large,No Change,Mamberamo Raya,480,17855,29,0,0,1,0,0,0,18365
+94,9429,9429,9429,Papua,Nduga,Nduga,Papua-at-large,Papua-at-large,No Change,Nduga,0,79053,0,0,0,0,0,0,0,79053
+94,9430,9430,9430,Papua,Lanny Jaya,Lanny Jaya,Papua-at-large,Papua-at-large,No Change,Lanny Jaya,127,148282,113,0,0,0,0,0,0,148522
+94,9431,9431,9431,Papua,Mamberamo Tengah,Mamberamo Tengah,Papua-at-large,Papua-at-large,No Change,Mamberamo Tengah,68,38797,672,0,0,0,0,0,0,39537
+94,9432,9432,9432,Papua,Yalimo,Yalimo,Papua-at-large,Papua-at-large,No Change,Yalimo,64,50663,35,1,0,0,0,0,0,50763
+94,9433,9433,9433,Papua,Puncak,Puncak,Papua-at-large,Papua-at-large,No Change,Puncak,293,92758,165,1,1,0,0,0,0,93218
+94,9434,9434,9434,Papua,Dogiyai,Dogiyai,Papua-at-large,Papua-at-large,No Change,Dogiyai,642,32026,51550,7,1,2,2,0,0,84230
+94,9435,9435,9435,Papua,Intan Jaya,Intan Jaya,Papua-at-large,Papua-at-large,No Change,Intan Jaya,61,26956,13473,0,0,0,0,0,0,40490
+94,9436,9436,9436,Papua,Deiyai,Deiyai,Papua-at-large,Papua-at-large,No Change,Deiyai,455,38478,23162,0,0,0,0,0,24,62119
+94,9471,9471,9471,Papua,Jayapura,Jayapura,Papua-at-large,Papua-at-large,No Change,Kota Jayapura,113133,127927,13423,526,608,12,0,0,1076,256705

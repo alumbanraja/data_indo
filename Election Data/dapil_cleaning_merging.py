@@ -28,10 +28,16 @@ dapil_edit = dapil_edit[cols] # reorder kode_bps_2010
 population = pd.read_csv("Religious Affiliation/population_by_religion_2010.csv")
 share = pd.read_csv("Religious Affiliation/share_by_religion_2010.csv")
 
-# Below lines are for example. If you want to use total population
-combined = pd.merge(dapil_edit,population,on=['kode_bps_2010'],
+combined_pop = pd.merge(dapil_edit,population,on=['kode_bps_2010'],
                     how='outer')
-combined.sort_values(by=['kode_bps_2019'],inplace=True)
+combined_pop.sort_values(by=['kode_bps_2019'],inplace=True)
+combined_pop.to_csv('Election Data/pop_religion_election_dist.csv',index=False)
+
+
+combined_shr = pd.merge(dapil_edit,share,on=['kode_bps_2010'],
+                    how='outer')
+combined_shr.sort_values(by=['kode_bps_2019'],inplace=True)
+combined_shr.to_csv('Election Data/shr_religion_election_dist.csv',index=False)
 
 
 """

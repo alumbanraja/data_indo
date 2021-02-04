@@ -27,7 +27,7 @@ def clean(prov_code):
     df.drop(df.tail(3).index,inplace=True) 
     df.drop(df.head(3).index,inplace=True)
     df.at[3,df.columns[0]]='kode_kab_last'
-    df.at[3,df.columns[1]]='name_kab'
+    df.at[3,df.columns[1]]='name_kab_2010'
     df.columns=df.iloc[0]
     df.drop(df.index[0],inplace=True)  
     df['kode_prov']=str(prov_code)

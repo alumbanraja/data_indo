@@ -1,0 +1,515 @@
+kode_prov;kode_kab_2014;kode_kab_2019;name_prov;name_kab_2014;name_kab_2019;dapil_2019;dapil 2014;change_14_19
+11;1101;1101;Aceh;Kab. Simeulue;Kab. Simeulue;Aceh-01;Aceh-01;No Change
+11;1102;1102;Aceh;Kab. Aceh Singkil;Kab. Aceh Singkil;Aceh-01;Aceh-01;No Change
+11;1103;1103;Aceh;Kab. Aceh Selatan;Kab. Aceh Selatan;Aceh-01;Aceh-01;No Change
+11;1104;1104;Aceh;Kab. Aceh Tenggara;Kab. Aceh Tenggara;Aceh-01;Aceh-01;No Change
+11;1105;1105;Aceh;Kab. Aceh Timur;Kab. Aceh Timur;Aceh-02;Aceh-02;No Change
+11;1106;1106;Aceh;Kab. Aceh Tengah;Kab. Aceh Tengah;Aceh-02;Aceh-02;No Change
+11;1107;1107;Aceh;Kab. Aceh Barat;Kab. Aceh Barat;Aceh-01;Aceh-01;No Change
+11;1108;1108;Aceh;Kab. Aceh Besar;Kab. Aceh Besar;Aceh-01;Aceh-01;No Change
+11;1109;1109;Aceh;Kab. Aceh Pidie;Kab. Aceh Pidie;Aceh-01;Aceh-01;No Change
+11;1110;1110;Aceh;Kab. Bireuen;Kab. Bireuen;Aceh-02;Aceh-02;No Change
+11;1111;1111;Aceh;Kab. Aceh Utara;Kab. Aceh Utara;Aceh-02;Aceh-02;No Change
+11;1112;1112;Aceh;Kab. Aceh Barat Daya;Kab. Aceh Barat Daya;Aceh-01;Aceh-01;No Change
+11;1113;1113;Aceh;Kab. Gayo Lues;Kab. Gayo Lues;Aceh-01;Aceh-01;No Change
+11;1114;1114;Aceh;Kab. Aceh Tamiang;Kab. Aceh Tamiang;Aceh-02;Aceh-02;No Change
+11;1115;1115;Aceh;Kab. Nagan Raya;Kab. Nagan Raya;Aceh-01;Aceh-01;No Change
+11;1116;1116;Aceh;Kab. Aceh Jaya;Kab. Aceh Jaya;Aceh-01;Aceh-01;No Change
+11;1117;1117;Aceh;Kab. Bener Meriah;Kab. Bener Meriah;Aceh-02;Aceh-02;No Change
+11;1118;1118;Aceh;Kab. Pidie Jaya;Kab. Pidie Jaya;Aceh-01;Aceh-01;No Change
+11;1171;1171;Aceh;Kota Banda Aceh;Kota Banda Aceh;Aceh-01;Aceh-01;No Change
+11;1172;1172;Aceh;Kota Sabang;Kota Sabang;Aceh-01;Aceh-01;No Change
+11;1173;1173;Aceh;Kota Langsa;Kota Langsa;Aceh-02;Aceh-02;No Change
+11;1174;1174;Aceh;Kota Lhokseumawe;Kota Lhokseumawe;Aceh-02;Aceh-02;No Change
+11;1175;1175;Aceh;Kota Subulussalam;Kota Subulussalam;Aceh-01;Aceh-01;No Change
+12;1201;1201;Sumatera Utara;Kab. Nias;Kab. Nias;Sumut-02;Sumut-02;No Change
+12;1202;1202;Sumatera Utara;Kab. Mandailing Natal;Kab. Mandailing Natal;Sumut-02;Sumut-02;No Change
+12;1203;1203;Sumatera Utara;Kab. Tapanuli Selatan;Kab. Tapanuli Selatan;Sumut-02;Sumut-02;No Change
+12;1204;1204;Sumatera Utara;Kab. Tapanuli Tengah;Kab. Tapanuli Tengah;Sumut-02;Sumut-02;No Change
+12;1205;1205;Sumatera Utara;Kab. Tapanuli Utara;Kab. Tapanuli Utara;Sumut-02;Sumut-02;No Change
+12;1206;1206;Sumatera Utara;Kab. Toba Samosir;Kab. Toba Samosir;Sumut-02;Sumut-02;No Change
+12;1207;1207;Sumatera Utara;Kab. Labuhan Batu;Kab. Labuhan Batu;Sumut-02;Sumut-02;No Change
+12;1208;1208;Sumatera Utara;Kab. Asahan;Kab. Asahan;Sumut-03;Sumut-03;No Change
+12;1209;1209;Sumatera Utara;Kab. Simalungun;Kab. Simalungun;Sumut-03;Sumut-03;No Change
+12;1210;1210;Sumatera Utara;Kab. Dairi;Kab. Dairi;Sumut-03;Sumut-03;No Change
+12;1211;1211;Sumatera Utara;Kab. Tanah Karo;Kab. Tanah Karo;Sumut-03;Sumut-03;No Change
+12;1212;1212;Sumatera Utara;Kab. Deli Serdang;Kab. Deli Serdang;Sumut-01;Sumut-01;No Change
+12;1213;1213;Sumatera Utara;Kab. Langkat;Kab. Langkat;Sumut-03;Sumut-03;No Change
+12;1214;1214;Sumatera Utara;Kab. Nias Selatan;Kab. Nias Selatan;Sumut-02;Sumut-02;No Change
+12;1215;1215;Sumatera Utara;Kab. Humbang Hasundutan;Kab. Humbang Hasundutan;Sumut-02;Sumut-02;No Change
+12;1216;1216;Sumatera Utara;Kab. Pakpak Bharat;Kab. Pakpak Bharat;Sumut-03;Sumut-03;No Change
+12;1217;1217;Sumatera Utara;Kab. Samosir;Kab. Samosir;Sumut-02;Sumut-02;No Change
+12;1218;1218;Sumatera Utara;Kab. Serdang Bedagai;Kab. Serdang Bedagai;Sumut-01;Sumut-01;No Change
+12;1219;1219;Sumatera Utara;Kab. Batu Bara;Kab. Batu Bara;Sumut-03;Sumut-03;No Change
+12;1220;1220;Sumatera Utara;Kab. Padang Lawas Utara;Kab. Padang Lawas Utara;Sumut-02;Sumut-02;No Change
+12;1221;1221;Sumatera Utara;Kab. Padang Lawas;Kab. Padang Lawas;Sumut-02;Sumut-02;No Change
+12;1222;1222;Sumatera Utara;Kab. Labuhan Batu Selatan;Kab. Labuhan Batu Selatan;Sumut-02;Sumut-02;No Change
+12;1223;1223;Sumatera Utara;Kab. Labuhan Batu Utara;Kab. Labuhan Batu Utara;Sumut-02;Sumut-02;No Change
+12;1224;1224;Sumatera Utara;Kab. Nias Utara;Kab. Nias Utara;Sumut-02;Sumut-02;No Change
+12;1225;1225;Sumatera Utara;Kab. Nias Barat;Kab. Nias Barat;Sumut-02;Sumut-02;No Change
+12;1271;1271;Sumatera Utara;Kota Sibolga;Kota Sibolga;Sumut-02;Sumut-02;No Change
+12;1272;1272;Sumatera Utara;Kota Tanjung Balai;Kota Tanjung Balai;Sumut-03;Sumut-03;No Change
+12;1273;1273;Sumatera Utara;Kota Pematang Siantar;Kota Pematang Siantar;Sumut-03;Sumut-03;No Change
+12;1274;1274;Sumatera Utara;Kota Tebing Tinggi;Kota Tebing Tinggi;Sumut-01;Sumut-01;No Change
+12;1275;1275;Sumatera Utara;Kota Medan;Kota Medan;Sumut-01;Sumut-01;No Change
+12;1276;1276;Sumatera Utara;Kota Binjai;Kota Binjai;Sumut-03;Sumut-03;No Change
+12;1277;1277;Sumatera Utara;Kota Padang Sidempuan;Kota Padang Sidempuan;Sumut-02;Sumut-02;No Change
+12;1278;1278;Sumatera Utara;Kota Gunung Sitoli;Kota Gunung Sitoli;Sumut-02;Sumut-02;No Change
+13;1301;1301;Sumatera Barat;Kab. Kepulauan Mentawai;Kab. Kepulauan Mentawai;Sumbar-01;Sumbar-01;No Change
+13;1302;1302;Sumatera Barat;Kab. Pesisir Selatan;Kab. Pesisir Selatan;Sumbar-01;Sumbar-01;No Change
+13;1303;1303;Sumatera Barat;Kab. Solok;Kab. Solok;Sumbar-01;Sumbar-01;No Change
+13;1304;1304;Sumatera Barat;Kab. Sawahlunto Sijunjung;Kab. Sawahlunto Sijunjung;Sumbar-01;Sumbar-01;No Change
+13;1305;1305;Sumatera Barat;Kab. Tanah Datar;Kab. Tanah Datar;Sumbar-01;Sumbar-01;No Change
+13;1306;1306;Sumatera Barat;Kab. Padang Pariaman;Kab. Padang Pariaman;Sumbar-02;Sumbar-02;No Change
+13;1307;1307;Sumatera Barat;Kab. Agam;Kab. Agam;Sumbar-02;Sumbar-02;No Change
+13;1308;1308;Sumatera Barat;Kab. Limapuluh Kota;Kab. Limapuluh Kota;Sumbar-02;Sumbar-02;No Change
+13;1309;1309;Sumatera Barat;Kab. Pasaman;Kab. Pasaman;Sumbar-02;Sumbar-02;No Change
+13;1310;1310;Sumatera Barat;Kab. Solok Selatan;Kab. Solok Selatan;Sumbar-01;Sumbar-01;No Change
+13;1311;1311;Sumatera Barat;Kab. Dharmas Raya;Kab. Dharmas Raya;Sumbar-01;Sumbar-01;No Change
+13;1312;1312;Sumatera Barat;Kab. Pasaman Barat;Kab. Pasaman Barat;Sumbar-02;Sumbar-02;No Change
+13;1371;1371;Sumatera Barat;Kota Padang;Kota Padang;Sumbar-01;Sumbar-01;No Change
+13;1372;1372;Sumatera Barat;Kota Solok;Kota Solok;Sumbar-01;Sumbar-01;No Change
+13;1373;1373;Sumatera Barat;Kota Sawahlunto;Kota Sawahlunto;Sumbar-01;Sumbar-01;No Change
+13;1374;1374;Sumatera Barat;Kota Padang Panjang;Kota Padang Panjang;Sumbar-01;Sumbar-01;No Change
+13;1375;1375;Sumatera Barat;Kota Bukittinggi;Kota Bukittinggi;Sumbar-02;Sumbar-02;No Change
+13;1376;1376;Sumatera Barat;Kota Payakumbuh;Kota Payakumbuh;Sumbar-02;Sumbar-02;No Change
+13;1377;1377;Sumatera Barat;Kota Pariaman;Kota Pariaman;Sumbar-02;Sumbar-02;No Change
+14;1401;1401;Riau;Kab. Kuantan Singingi;Kab. Kuantan Singingi;Riau-02;Riau-02;No Change
+14;1402;1402;Riau;Kab. Indragiri Hulu;Kab. Indragiri Hulu;Riau-02;Riau-02;No Change
+14;1403;1403;Riau;Kab. Indragiri Hilir;Kab. Indragiri Hilir;Riau-02;Riau-02;No Change
+14;1404;1404;Riau;Kab. Pelalawan;Kab. Pelalawan;Riau-02;Riau-02;No Change
+14;1405;1405;Riau;Kab. Siak;Kab. Siak;Riau-01;Riau-01;No Change
+14;1406;1406;Riau;Kab. Kampar;Kab. Kampar;Riau-02;Riau-02;No Change
+14;1407;1407;Riau;Kab. Rokan Hulu;Kab. Rokan Hulu;Riau-01;Riau-01;No Change
+14;1408;1408;Riau;Kab. Bengkalis;Kab. Bengkalis;Riau-01;Riau-01;No Change
+14;1409;1409;Riau;Kab. Rokan Hilir;Kab. Rokan Hilir;Riau-01;Riau-01;No Change
+14;1410;1410;Riau;Kab. Kepulauan Meranti;Kab. Kepulauan Meranti;Riau-01;Riau-01;No Change
+14;1471;1471;Riau;Kota Pekan Baru;Kota Pekan Baru;Riau-01;Riau-01;No Change
+14;1473;1473;Riau;Kota Dumai;Kota Dumai;Riau-01;Riau-01;No Change
+15;1501;1501;Jambi;Kab. Kerinci;Kab. Kerinci;Jambi-at-large;Jambi-at-large;No Change
+15;1502;1502;Jambi;Kab. Merangin;Kab. Merangin;Jambi-at-large;Jambi-at-large;No Change
+15;1503;1503;Jambi;Kab. Sarolangun;Kab. Sarolangun;Jambi-at-large;Jambi-at-large;No Change
+15;1504;1504;Jambi;Kab. Batanghari;Kab. Batanghari;Jambi-at-large;Jambi-at-large;No Change
+15;1505;1505;Jambi;Kab. Muaro Jambi;Kab. Muaro Jambi;Jambi-at-large;Jambi-at-large;No Change
+15;1506;1506;Jambi;Kab. Tanjung Jabung Timur;Kab. Tanjung Jabung Timur;Jambi-at-large;Jambi-at-large;No Change
+15;1507;1507;Jambi;Kab. Tanjung Jabung Barat;Kab. Tanjung Jabung Barat;Jambi-at-large;Jambi-at-large;No Change
+15;1508;1508;Jambi;Kab. Tebo;Kab. Tebo;Jambi-at-large;Jambi-at-large;No Change
+15;1509;1509;Jambi;Kab. Bungo;Kab. Bungo;Jambi-at-large;Jambi-at-large;No Change
+15;1571;1571;Jambi;Kota Jambi;Kota Jambi;Jambi-at-large;Jambi-at-large;No Change
+15;1572;1572;Jambi;Kota Sungai Penuh;Kota Sungai Penuh;Jambi-at-large;Jambi-at-large;No Change
+16;1601;1601;Sumatera Selatan;Kab. Ogan Komering Ulu;Kab. Ogan Komering Ulu;Sumsel-02;Sumsel-02;No Change
+16;1602;1602;Sumatera Selatan;Kab. Ogan Komering Ilir;Kab. Ogan Komering Ilir;Sumsel-02;Sumsel-02;No Change
+16;1603;1603;Sumatera Selatan;Kab. Muara Enim;Kab. Muara Enim;Sumsel-02;Sumsel-02;No Change
+16;1604;1604;Sumatera Selatan;Kab. Lahat;Kab. Lahat;Sumsel-02;Sumsel-02;No Change
+16;1605;1605;Sumatera Selatan;Kab. Musi Rawas;Kab. Musi Rawas;Sumsel-01;Sumsel-01;No Change
+16;1606;1606;Sumatera Selatan;Kab. Musi Banyuasin;Kab. Musi Banyuasin;Sumsel-01;Sumsel-01;No Change
+16;1607;1607;Sumatera Selatan;Kab. Banyuasin;Kab. Banyuasin;Sumsel-01;Sumsel-01;No Change
+16;1608;1608;Sumatera Selatan;Kab. Ogan Komering Ulu Selatan;Kab. Ogan Komering Ulu Selatan;Sumsel-02;Sumsel-02;No Change
+16;1609;1609;Sumatera Selatan;Kab. Ogan Komering Ulu Timur;Kab. Ogan Komering Ulu Timur;Sumsel-02;Sumsel-02;No Change
+16;1610;1610;Sumatera Selatan;Kab. Ogan Ilir;Kab. Ogan Ilir;Sumsel-02;Sumsel-02;No Change
+16;1611;1611;Sumatera Selatan;Kab. Empat Lawang;Kab. Empat Lawang;Sumsel-02;Sumsel-02;No Change
+16;1612;1612;Sumatera Selatan;Kab. Penukal Abab Lematang Ilir;Kab. Penukal Abab Lematang Ilir;Sumsel-02;Sumsel-02;No Change
+16;1613;1613;Sumatera Selatan;Kab. Musi Rawas Utara;Kab. Musi Rawas Utara;Sumsel-01;Sumsel-01;No Change
+16;1671;1671;Sumatera Selatan;Kota Palembang;Kota Palembang;Sumsel-01;Sumsel-01;No Change
+16;1672;1672;Sumatera Selatan;Kota Prabumulih;Kota Prabumulih;Sumsel-02;Sumsel-02;No Change
+16;1673;1673;Sumatera Selatan;Kota Pagar Alam;Kota Pagar Alam;Sumsel-02;Sumsel-02;No Change
+16;1674;1674;Sumatera Selatan;Kota Lubuk Linggau;Kota Lubuk Linggau;Sumsel-01;Sumsel-01;No Change
+17;1701;1701;Bengkulu;Kab. Bengkulu Selatan;Kab. Bengkulu Selatan;Bengkulu-at-large;Bengkulu-at-large;No Change
+17;1702;1702;Bengkulu;Kab. Rejang Lebong;Kab. Rejang Lebong;Bengkulu-at-large;Bengkulu-at-large;No Change
+17;1703;1703;Bengkulu;Kab. Bengkulu Utara;Kab. Bengkulu Utara;Bengkulu-at-large;Bengkulu-at-large;No Change
+17;1704;1704;Bengkulu;Kab. Kaur;Kab. Kaur;Bengkulu-at-large;Bengkulu-at-large;No Change
+17;1705;1705;Bengkulu;Kab. Seluma;Kab. Seluma;Bengkulu-at-large;Bengkulu-at-large;No Change
+17;1706;1706;Bengkulu;Kab. Mukomuko;Kab. Mukomuko;Bengkulu-at-large;Bengkulu-at-large;No Change
+17;1707;1707;Bengkulu;Kab. Lebong;Kab. Lebong;Bengkulu-at-large;Bengkulu-at-large;No Change
+17;1708;1708;Bengkulu;Kab. Kepahiang;Kab. Kepahiang;Bengkulu-at-large;Bengkulu-at-large;No Change
+17;1709;1709;Bengkulu;Kab. Bengkulu Tengah;Kab. Bengkulu Tengah;Bengkulu-at-large;Bengkulu-at-large;No Change
+17;1771;1771;Bengkulu;Kota Bengkulu;Kota Bengkulu;Bengkulu-at-large;Bengkulu-at-large;No Change
+18;1801;1801;Lampung;Kab. Lampung Barat;Kab. Lampung Barat;Lampung-01;Lampung-01;No Change
+18;1802;1802;Lampung;Kab. Tanggamus;Kab. Tanggamus;Lampung-01;Lampung-01;No Change
+18;1803;1803;Lampung;Kab. Lampung Selatan;Kab. Lampung Selatan;Lampung-01;Lampung-01;No Change
+18;1804;1804;Lampung;Kab. Lampung Timur;Kab. Lampung Timur;Lampung-02;Lampung-02;No Change
+18;1805;1805;Lampung;Kab. Lampung Tengah;Kab. Lampung Tengah;Lampung-02;Lampung-02;No Change
+18;1806;1806;Lampung;Kab. Lampung Utara;Kab. Lampung Utara;Lampung-02;Lampung-02;No Change
+18;1807;1807;Lampung;Kab. Way Kanan;Kab. Way Kanan;Lampung-02;Lampung-02;No Change
+18;1808;1808;Lampung;Kab. Tulang Bawang;Kab. Tulang Bawang;Lampung-02;Lampung-02;No Change
+18;1809;1809;Lampung;Kab. Pesawaran;Kab. Pesawaran;Lampung-01;Lampung-01;No Change
+18;1810;1810;Lampung;Kab. Pringsewu;Kab. Pringsewu;Lampung-01;Lampung-01;No Change
+18;1811;1811;Lampung;Kab. Mesuji;Kab. Mesuji;Lampung-02;Lampung-02;No Change
+18;1812;1812;Lampung;Kab. Tulang Bawang Barat;Kab. Tulang Bawang Barat;Lampung-02;Lampung-02;No Change
+18;1813;1813;Lampung;Kab. Pesisir Barat;Kab. Pesisir Barat;Lampung-01;Lampung-01;No Change
+18;1871;1871;Lampung;Kota Bandar Lampung;Kota Bandar Lampung;Lampung-01;Lampung-01;No Change
+18;1872;1872;Lampung;Kota Metro;Kota Metro;Lampung-01;Lampung-01;No Change
+19;1901;1901;Kepulauan Bangka Belitung;Kab. Bangka;Kab. Bangka;Babel-at-large;Babel-at-large;No Change
+19;1902;1902;Kepulauan Bangka Belitung;Kab. Belitung;Kab. Belitung;Babel-at-large;Babel-at-large;No Change
+19;1903;1903;Kepulauan Bangka Belitung;Kab. Bangka Barat;Kab. Bangka Barat;Babel-at-large;Babel-at-large;No Change
+19;1904;1904;Kepulauan Bangka Belitung;Kab. Bangka Tengah;Kab. Bangka Tengah;Babel-at-large;Babel-at-large;No Change
+19;1905;1905;Kepulauan Bangka Belitung;Kab. Bangka Selatan;Kab. Bangka Selatan;Babel-at-large;Babel-at-large;No Change
+19;1906;1906;Kepulauan Bangka Belitung;Kab. Belitung Timur;Kab. Belitung Timur;Babel-at-large;Babel-at-large;No Change
+19;1971;1971;Kepulauan Bangka Belitung;Kota Pangkal Pinang;Kota Pangkal Pinang;Babel-at-large;Babel-at-large;No Change
+21;2101;2101;Kepulauan Riau;Kab. Karimun;Kab. Karimun;Kepri-at-large;Kepri-at-large;No Change
+21;2102;2102;Kepulauan Riau;Kab. Bintan;Kab. Bintan;Kepri-at-large;Kepri-at-large;No Change
+21;2103;2103;Kepulauan Riau;Kab. Natuna;Kab. Natuna;Kepri-at-large;Kepri-at-large;No Change
+21;2104;2104;Kepulauan Riau;Kab. Lingga;Kab. Lingga;Kepri-at-large;Kepri-at-large;No Change
+21;2105;2105;Kepulauan Riau;Kab. Kepulauan Anambas;Kab. Kepulauan Anambas;Kepri-at-large;Kepri-at-large;No Change
+21;2171;2171;Kepulauan Riau;Kota Batam;Kota Batam;Kepri-at-large;Kepri-at-large;No Change
+21;2172;2172;Kepulauan Riau;Kota Tanjung Pinang;Kota Tanjung Pinang;Kepri-at-large;Kepri-at-large;No Change
+31;3101;3101;DKI Jakarta;Kab. Adm. Kepulauan Seribu;Kab. Adm. Kepulauan Seribu;Jakarta-03;Jakarta-03;No Change
+31;3171;3171;DKI Jakarta;Kota Jakarta Selatan;Kota Jakarta Selatan;Jakarta-02;Jakarta-02;No Change
+31;3172;3172;DKI Jakarta;Kota Jakarta Timur;Kota Jakarta Timur;Jakarta-01;Jakarta-01;No Change
+31;3173;3173;DKI Jakarta;Kota Jakarta Pusat;Kota Jakarta Pusat;Jakarta-02;Jakarta-02;No Change
+31;3174;3174;DKI Jakarta;Kota Jakarta Barat;Kota Jakarta Barat;Jakarta-03;Jakarta-03;No Change
+31;3175;3175;DKI Jakarta;Kota Jakarta Utara;Kota Jakarta Utara;Jakarta-03;Jakarta-03;No Change
+32;3201;3201;Jawa Barat;Kab. Bogor;Kab. Bogor;Jabar-05;Jabar-05;No Change
+32;3202;3202;Jawa Barat;Kab. Sukabumi;Kab. Sukabumi;Jabar-04;Jabar-04;No Change
+32;3203;3203;Jawa Barat;Kab. Cianjur;Kab. Cianjur;Jabar-03;Jabar-03;No Change
+32;3204;3204;Jawa Barat;Kab. Bandung;Kab. Bandung;Jabar-02;Jabar-02;No Change
+32;3205;3205;Jawa Barat;Kab. Garut;Kab. Garut;Jabar-11;Jabar-11;No Change
+32;3206;3206;Jawa Barat;Kab. Tasikmalaya;Kab. Tasikmalaya;Jabar-11;Jabar-11;No Change
+32;3207;3207;Jawa Barat;Kab. Ciamis;Kab. Ciamis;Jabar-10;Jabar-10;No Change
+32;3208;3208;Jawa Barat;Kab. Kuningan;Kab. Kuningan;Jabar-10;Jabar-10;No Change
+32;3209;3209;Jawa Barat;Kab. Cirebon;Kab. Cirebon;Jabar-08;Jabar-08;No Change
+32;3210;3210;Jawa Barat;Kab. Majalengka;Kab. Majalengka;Jabar-09;Jabar-09;No Change
+32;3211;3211;Jawa Barat;Kab. Sumedang;Kab. Sumedang;Jabar-09;Jabar-09;No Change
+32;3212;3212;Jawa Barat;Kab. Indramayu;Kab. Indramayu;Jabar-08;Jabar-08;No Change
+32;3213;3213;Jawa Barat;Kab. Subang;Kab. Subang;Jabar-09;Jabar-09;No Change
+32;3214;3214;Jawa Barat;Kab. Purwakarta;Kab. Purwakarta;Jabar-07;Jabar-07;No Change
+32;3215;3215;Jawa Barat;Kab. Karawang;Kab. Karawang;Jabar-07;Jabar-07;No Change
+32;3216;3216;Jawa Barat;Kab. Bekasi;Kab. Bekasi;Jabar-07;Jabar-07;No Change
+32;3217;3217;Jawa Barat;Kab. Bandung Barat;Kab. Bandung Barat;Jabar-02;Jabar-02;No Change
+32;3218;3218;Jawa Barat;Kab. Pangandaran;Kab. Pangandaran;Jabar-10;Jabar-10;No Change
+32;3271;3271;Jawa Barat;Kota Bogor;Kota Bogor;Jabar-03;Jabar-03;No Change
+32;3272;3272;Jawa Barat;Kota Sukabumi;Kota Sukabumi;Jabar-04;Jabar-04;No Change
+32;3273;3273;Jawa Barat;Kota Bandung;Kota Bandung;Jabar-01;Jabar-01;No Change
+32;3274;3274;Jawa Barat;Kota Cirebon;Kota Cirebon;Jabar-08;Jabar-08;No Change
+32;3275;3275;Jawa Barat;Kota Bekasi;Kota Bekasi;Jabar-06;Jabar-06;No Change
+32;3276;3276;Jawa Barat;Kota Depok;Kota Depok;Jabar-06;Jabar-06;No Change
+32;3277;3277;Jawa Barat;Kota Cimahi;Kota Cimahi;Jabar-01;Jabar-01;No Change
+32;3278;3278;Jawa Barat;Kota Tasikmalaya;Kota Tasikmalaya;Jabar-11;Jabar-11;No Change
+32;3279;3279;Jawa Barat;Kota Banjar;Kota Banjar;Jabar-10;Jabar-10;No Change
+33;3301;3301;Jawa Tengah;Kab. Cilacap;Kab. Cilacap;Jateng-08;Jateng-08;No Change
+33;3302;3302;Jawa Tengah;Kab. Banyumas;Kab. Banyumas;Jateng-08;Jateng-08;No Change
+33;3303;3303;Jawa Tengah;Kab. Purbalingga;Kab. Purbalingga;Jateng-07;Jateng-07;No Change
+33;3304;3304;Jawa Tengah;Kab. Banjarnegara;Kab. Banjarnegara;Jateng-07;Jateng-07;No Change
+33;3305;3305;Jawa Tengah;Kab. Kebumen;Kab. Kebumen;Jateng-07;Jateng-07;No Change
+33;3306;3306;Jawa Tengah;Kab. Purworejo;Kab. Purworejo;Jateng-06;Jateng-06;No Change
+33;3307;3307;Jawa Tengah;Kab. Wonosobo;Kab. Wonosobo;Jateng-06;Jateng-06;No Change
+33;3308;3308;Jawa Tengah;Kab. Magelang;Kab. Magelang;Jateng-06;Jateng-06;No Change
+33;3309;3309;Jawa Tengah;Kab. Boyolali;Kab. Boyolali;Jateng-05;Jateng-05;No Change
+33;3310;3310;Jawa Tengah;Kab. Klaten;Kab. Klaten;Jateng-05;Jateng-05;No Change
+33;3311;3311;Jawa Tengah;Kab. Sukoharjo;Kab. Sukoharjo;Jateng-05;Jateng-05;No Change
+33;3312;3312;Jawa Tengah;Kab. Wonogiri;Kab. Wonogiri;Jateng-04;Jateng-04;No Change
+33;3313;3313;Jawa Tengah;Kab. Karanganyar;Kab. Karanganyar;Jateng-04;Jateng-04;No Change
+33;3314;3314;Jawa Tengah;Kab. Sragen;Kab. Sragen;Jateng-04;Jateng-04;No Change
+33;3315;3315;Jawa Tengah;Kab. Grobogan;Kab. Grobogan;Jateng-03;Jateng-03;No Change
+33;3316;3316;Jawa Tengah;Kab. Blora;Kab. Blora;Jateng-03;Jateng-03;No Change
+33;3317;3317;Jawa Tengah;Kab. Rembang;Kab. Rembang;Jateng-03;Jateng-03;No Change
+33;3318;3318;Jawa Tengah;Kab. Pati;Kab. Pati;Jateng-03;Jateng-03;No Change
+33;3319;3319;Jawa Tengah;Kab. Kudus;Kab. Kudus;Jateng-02;Jateng-02;No Change
+33;3320;3320;Jawa Tengah;Kab. Jepara;Kab. Jepara;Jateng-02;Jateng-02;No Change
+33;3321;3321;Jawa Tengah;Kab. Demak;Kab. Demak;Jateng-02;Jateng-02;No Change
+33;3322;3322;Jawa Tengah;Kab. Semarang;Kab. Semarang;Jateng-01;Jateng-01;No Change
+33;3323;3323;Jawa Tengah;Kab. Temanggung;Kab. Temanggung;Jateng-06;Jateng-06;No Change
+33;3324;3324;Jawa Tengah;Kab. Kendal;Kab. Kendal;Jateng-01;Jateng-01;No Change
+33;3325;3325;Jawa Tengah;Kab. Batang;Kab. Batang;Jateng-10;Jateng-10;No Change
+33;3326;3326;Jawa Tengah;Kab. Pekalongan;Kab. Pekalongan;Jateng-10;Jateng-10;No Change
+33;3327;3327;Jawa Tengah;Kab. Pemalang;Kab. Pemalang;Jateng-10;Jateng-10;No Change
+33;3328;3328;Jawa Tengah;Kab. Tegal;Kab. Tegal;Jateng-09;Jateng-09;No Change
+33;3329;3329;Jawa Tengah;Kab. Brebes;Kab. Brebes;Jateng-09;Jateng-09;No Change
+33;3371;3371;Jawa Tengah;Kota Magelang;Kota Magelang;Jateng-06;Jateng-06;No Change
+33;3372;3372;Jawa Tengah;Kota Surakarta;Kota Surakarta;Jateng-05;Jateng-05;No Change
+33;3373;3373;Jawa Tengah;Kota Salatiga;Kota Salatiga;Jateng-01;Jateng-01;No Change
+33;3374;3374;Jawa Tengah;Kota Semarang;Kota Semarang;Jateng-01;Jateng-01;No Change
+33;3375;3375;Jawa Tengah;Kota Pekalongan;Kota Pekalongan;Jateng-10;Jateng-10;No Change
+33;3376;3376;Jawa Tengah;Kota Tegal;Kota Tegal;Jateng-09;Jateng-09;No Change
+34;3401;3401;D I Yogyakarta;Kab. Kulon Progo;Kab. Kulon Progo;DIY-at-large;DIY-at-large;No Change
+34;3402;3402;D I Yogyakarta;Kab. Bantul;Kab. Bantul;DIY-at-large;DIY-at-large;No Change
+34;3403;3403;D I Yogyakarta;Kab. Gunung Kidul;Kab. Gunung Kidul;DIY-at-large;DIY-at-large;No Change
+34;3404;3404;D I Yogyakarta;Kab. Sleman;Kab. Sleman;DIY-at-large;DIY-at-large;No Change
+34;3471;3471;D I Yogyakarta;Kota Yogyakarta;Kota Yogyakarta;DIY-at-large;DIY-at-large;No Change
+35;3501;3501;Jawa Timur;Kab. Pacitan;Kab. Pacitan;Jatim-07;Jatim-07;No Change
+35;3502;3502;Jawa Timur;Kab. Ponorogo;Kab. Ponorogo;Jatim-07;Jatim-07;No Change
+35;3503;3503;Jawa Timur;Kab. Trenggalek;Kab. Trenggalek;Jatim-07;Jatim-07;No Change
+35;3504;3504;Jawa Timur;Kab. Tulungagung;Kab. Tulungagung;Jatim-06;Jatim-06;No Change
+35;3505;3505;Jawa Timur;Kab. Blitar;Kab. Blitar;Jatim-06;Jatim-06;No Change
+35;3506;3506;Jawa Timur;Kab. Kediri;Kab. Kediri;Jatim-06;Jatim-06;No Change
+35;3507;3507;Jawa Timur;Kab. Malang;Kab. Malang;Jatim-05;Jatim-05;No Change
+35;3508;3508;Jawa Timur;Kab. Lumajang;Kab. Lumajang;Jatim-04;Jatim-04;No Change
+35;3509;3509;Jawa Timur;Kab. Jember;Kab. Jember;Jatim-04;Jatim-04;No Change
+35;3510;3510;Jawa Timur;Kab. Banyuwangi;Kab. Banyuwangi;Jatim-03;Jatim-03;No Change
+35;3511;3511;Jawa Timur;Kab. Bondowoso;Kab. Bondowoso;Jatim-03;Jatim-03;No Change
+35;3512;3512;Jawa Timur;Kab. Situbondo;Kab. Situbondo;Jatim-03;Jatim-03;No Change
+35;3513;3513;Jawa Timur;Kab. Probolinggo;Kab. Probolinggo;Jatim-02;Jatim-02;No Change
+35;3514;3514;Jawa Timur;Kab. Pasuruan;Kab. Pasuruan;Jatim-02;Jatim-02;No Change
+35;3515;3515;Jawa Timur;Kab. Sidoarjo;Kab. Sidoarjo;Jatim-01;Jatim-01;No Change
+35;3516;3516;Jawa Timur;Kab. Mojokerto;Kab. Mojokerto;Jatim-08;Jatim-08;No Change
+35;3517;3517;Jawa Timur;Kab. Jombang;Kab. Jombang;Jatim-08;Jatim-08;No Change
+35;3518;3518;Jawa Timur;Kab. Nganjuk;Kab. Nganjuk;Jatim-08;Jatim-08;No Change
+35;3519;3519;Jawa Timur;Kab. Madiun;Kab. Madiun;Jatim-08;Jatim-08;No Change
+35;3520;3520;Jawa Timur;Kab. Magetan;Kab. Magetan;Jatim-07;Jatim-07;No Change
+35;3521;3521;Jawa Timur;Kab. Ngawi;Kab. Ngawi;Jatim-07;Jatim-07;No Change
+35;3522;3522;Jawa Timur;Kab. Bojonegoro;Kab. Bojonegoro;Jatim-09;Jatim-09;No Change
+35;3523;3523;Jawa Timur;Kab. Tuban;Kab. Tuban;Jatim-09;Jatim-09;No Change
+35;3524;3524;Jawa Timur;Kab. Lamongan;Kab. Lamongan;Jatim-10;Jatim-10;No Change
+35;3525;3525;Jawa Timur;Kab. Gresik;Kab. Gresik;Jatim-10;Jatim-10;No Change
+35;3526;3526;Jawa Timur;Kab. Bangkalan;Kab. Bangkalan;Jatim-11;Jatim-11;No Change
+35;3527;3527;Jawa Timur;Kab. Sampang;Kab. Sampang;Jatim-11;Jatim-11;No Change
+35;3528;3528;Jawa Timur;Kab. Pamekasan;Kab. Pamekasan;Jatim-11;Jatim-11;No Change
+35;3529;3529;Jawa Timur;Kab. Sumenep;Kab. Sumenep;Jatim-11;Jatim-11;No Change
+35;3571;3571;Jawa Timur;Kota Kediri;Kota Kediri;Jatim-06;Jatim-06;No Change
+35;3572;3572;Jawa Timur;Kota Blitar;Kota Blitar;Jatim-06;Jatim-06;No Change
+35;3573;3573;Jawa Timur;Kota Malang;Kota Malang;Jatim-05;Jatim-05;No Change
+35;3574;3574;Jawa Timur;Kota Probolinggo;Kota Probolinggo;Jatim-02;Jatim-02;No Change
+35;3575;3575;Jawa Timur;Kota Pasuruan;Kota Pasuruan;Jatim-02;Jatim-02;No Change
+35;3576;3576;Jawa Timur;Kota Mojokerto;Kota Mojokerto;Jatim-08;Jatim-08;No Change
+35;3577;3577;Jawa Timur;Kota Madiun;Kota Madiun;Jatim-08;Jatim-08;No Change
+35;3578;3578;Jawa Timur;Kota Surabaya;Kota Surabaya;Jatim-01;Jatim-01;No Change
+35;3579;3579;Jawa Timur;Kota Batu;Kota Batu;Jatim-05;Jatim-05;No Change
+36;3601;3601;Banten;Kab. Pandeglang;Kab. Pandeglang;Banten-01;Banten-01;No Change
+36;3602;3602;Banten;Kab. Lebak;Kab. Lebak;Banten-01;Banten-01;No Change
+36;3603;3603;Banten;Kab. Tangerang;Kab. Tangerang;Banten-03;Banten-03;No Change
+36;3604;3604;Banten;Kab. Serang;Kab. Serang;Banten-02;Banten-02;No Change
+36;3671;3671;Banten;Kota Tangerang;Kota Tangerang;Banten-03;Banten-03;No Change
+36;3672;3672;Banten;Kota Cilegon;Kota Cilegon;Banten-02;Banten-02;No Change
+36;3673;3673;Banten;Kota Serang;Kota Serang;Banten-02;Banten-02;No Change
+36;3674;3674;Banten;Kota Tangerang Selatan;Kota Tangerang Selatan;Banten-03;Banten-03;No Change
+51;5101;5101;Bali;Kab. Jembrana;Kab. Jembrana;Bali-at-large;Bali-at-large;No Change
+51;5102;5102;Bali;Kab. Tabanan;Kab. Tabanan;Bali-at-large;Bali-at-large;No Change
+51;5103;5103;Bali;Kab. Badung;Kab. Badung;Bali-at-large;Bali-at-large;No Change
+51;5104;5104;Bali;Kab. Gianyar;Kab. Gianyar;Bali-at-large;Bali-at-large;No Change
+51;5105;5105;Bali;Kab. Klungkung;Kab. Klungkung;Bali-at-large;Bali-at-large;No Change
+51;5106;5106;Bali;Kab. Bangli;Kab. Bangli;Bali-at-large;Bali-at-large;No Change
+51;5107;5107;Bali;Kab. Karang Asem;Kab. Karang Asem;Bali-at-large;Bali-at-large;No Change
+51;5108;5108;Bali;Kab. Buleleng;Kab. Buleleng;Bali-at-large;Bali-at-large;No Change
+51;5171;5171;Bali;Kota Denpasar;Kota Denpasar;Bali-at-large;Bali-at-large;No Change
+52;5201;5201;Nusa Tenggara Barat;Kab. Lombok Barat;Kab. Lombok Barat;NTB-02;NTB-at-large;Split District
+52;5202;5202;Nusa Tenggara Barat;Kab. Lombok Tengah;Kab. Lombok Tengah;NTB-02;NTB-at-large;Split District
+52;5203;5203;Nusa Tenggara Barat;Kab. Lombok Timur;Kab. Lombok Timur;NTB-02;NTB-at-large;Split District
+52;5204;5204;Nusa Tenggara Barat;Kab. Sumbawa;Kab. Sumbawa;NTB-01;NTB-at-large;Split District
+52;5205;5205;Nusa Tenggara Barat;Kab. Dompu;Kab. Dompu;NTB-01;NTB-at-large;Split District
+52;5206;5206;Nusa Tenggara Barat;Kab. Bima;Kab. Bima;NTB-01;NTB-at-large;Split District
+52;5207;5207;Nusa Tenggara Barat;Kab. Sumbawa Barat;Kab. Sumbawa Barat;NTB-01;NTB-at-large;Split District
+52;5208;5208;Nusa Tenggara Barat;Kab. Lombok Utara;Kab. Lombok Utara;NTB-02;NTB-at-large;Split District
+52;5271;5271;Nusa Tenggara Barat;Kota Mataram;Kota Mataram;NTB-02;NTB-at-large;Split District
+52;5272;5272;Nusa Tenggara Barat;Kota Bima;Kota Bima;NTB-01;NTB-at-large;Split District
+53;5301;5301;Nusa Tenggara Timur;Kab. Sumba Barat;Kab. Sumba Barat;NTT-02;NTT-02;No Change
+53;5302;5302;Nusa Tenggara Timur;Kab. Sumba Timur;Kab. Sumba Timur;NTT-02;NTT-02;No Change
+53;5303;5303;Nusa Tenggara Timur;Kab. Kupang;Kab. Kupang;NTT-02;NTT-02;No Change
+53;5304;5304;Nusa Tenggara Timur;Kab. Timor Tengah Selatan;Kab. Timor Tengah Selatan;NTT-02;NTT-02;No Change
+53;5305;5305;Nusa Tenggara Timur;Kab. Timor Tengah Utara;Kab. Timor Tengah Utara;NTT-02;NTT-02;No Change
+53;5306;5306;Nusa Tenggara Timur;Kab. Belu;Kab. Belu;NTT-02;NTT-02;No Change
+53;5307;5307;Nusa Tenggara Timur;Kab. Alor;Kab. Alor;NTT-01;NTT-01;No Change
+53;5308;5308;Nusa Tenggara Timur;Kab. Lembata;Kab. Lembata;NTT-01;NTT-01;No Change
+53;5309;5309;Nusa Tenggara Timur;Kab. Flores Timur;Kab. Flores Timur;NTT-01;NTT-01;No Change
+53;5310;5310;Nusa Tenggara Timur;Kab. Sikka;Kab. Sikka;NTT-01;NTT-01;No Change
+53;5311;5311;Nusa Tenggara Timur;Kab. Ende;Kab. Ende;NTT-01;NTT-01;No Change
+53;5312;5312;Nusa Tenggara Timur;Kab. Ngada;Kab. Ngada;NTT-01;NTT-01;No Change
+53;5313;5313;Nusa Tenggara Timur;Kab. Manggarai;Kab. Manggarai;NTT-01;NTT-01;No Change
+53;5314;5314;Nusa Tenggara Timur;Kab. Rote Ndao;Kab. Rote Ndao;NTT-02;NTT-02;No Change
+53;5315;5315;Nusa Tenggara Timur;Kab. Manggarai Barat;Kab. Manggarai Barat;NTT-01;NTT-01;No Change
+53;5316;5316;Nusa Tenggara Timur;Kab. Sumba Tengah;Kab. Sumba Tengah;NTT-02;NTT-02;No Change
+53;5317;5317;Nusa Tenggara Timur;Kab. Sumba Barat Daya;Kab. Sumba Barat Daya;NTT-02;NTT-02;No Change
+53;5318;5318;Nusa Tenggara Timur;Kab. Nagekeo;Kab. Nagekeo;NTT-01;NTT-01;No Change
+53;5319;5319;Nusa Tenggara Timur;Kab. Manggarai Timur;Kab. Manggarai Timur;NTT-01;NTT-01;No Change
+53;5320;5320;Nusa Tenggara Timur;Kab. Sabu Raijua;Kab. Sabu Raijua;NTT-02;NTT-02;No Change
+53;5321;5321;Nusa Tenggara Timur;Kab. Malaka;Kab. Malaka;NTT-02;NTT-02;No Change
+53;5371;5371;Nusa Tenggara Timur;Kota Kupang;Kota Kupang;NTT-02;NTT-02;No Change
+61;6101;6101;Kalimantan Barat;Kab. Sambas;Kab. Sambas;Kalbar-01;Kalbar-at-large;Split District
+61;6102;6102;Kalimantan Barat;Kab. Bengkayang;Kab. Bengkayang;Kalbar-01;Kalbar-at-large;Split District
+61;6103;6103;Kalimantan Barat;Kab. Landak;Kab. Landak;Kalbar-01;Kalbar-at-large;Split District
+61;6104;6104;Kalimantan Barat;Kab. Pontianak;Kab. Pontianak;Kalbar-01;Kalbar-at-large;Split District
+61;6105;6105;Kalimantan Barat;Kab. Sanggau;Kab. Sanggau;Kalbar-02;Kalbar-at-large;Split District
+61;6106;6106;Kalimantan Barat;Kab. Ketapang;Kab. Ketapang;Kalbar-02;Kalbar-at-large;Split District
+61;6107;6107;Kalimantan Barat;Kab. Sintang;Kab. Sintang;Kalbar-02;Kalbar-at-large;Split District
+61;6108;6108;Kalimantan Barat;Kab. Kapuas Hulu;Kab. Kapuas Hulu;Kalbar-02;Kalbar-at-large;Split District
+61;6109;6109;Kalimantan Barat;Kab. Sekadau;Kab. Sekadau;Kalbar-02;Kalbar-at-large;Split District
+61;6110;6110;Kalimantan Barat;Kab. Melawi;Kab. Melawi;Kalbar-02;Kalbar-at-large;Split District
+61;6111;6111;Kalimantan Barat;Kab. Kayong Utara;Kab. Kayong Utara;Kalbar-01;Kalbar-at-large;Split District
+61;6112;6112;Kalimantan Barat;Kab. Kubu Raya;Kab. Kubu Raya;Kalbar-01;Kalbar-at-large;Split District
+61;6171;6171;Kalimantan Barat;Kota Pontianak;Kota Pontianak;Kalbar-01;Kalbar-at-large;Split District
+61;6172;6172;Kalimantan Barat;Kota Singkawang;Kota Singkawang;Kalbar-01;Kalbar-at-large;Split District
+62;6201;6201;Kalimantan Tengah;Kab. Kotawaringin Barat;Kab. Kotawaringin Barat;Kalteng-at-large;Kalteng-at-large;No Change
+62;6202;6202;Kalimantan Tengah;Kab. Kotawaringin Timur;Kab. Kotawaringin Timur;Kalteng-at-large;Kalteng-at-large;No Change
+62;6203;6203;Kalimantan Tengah;Kab. Kapuas;Kab. Kapuas;Kalteng-at-large;Kalteng-at-large;No Change
+62;6204;6204;Kalimantan Tengah;Kab. Barito Selatan;Kab. Barito Selatan;Kalteng-at-large;Kalteng-at-large;No Change
+62;6205;6205;Kalimantan Tengah;Kab. Barito Utara;Kab. Barito Utara;Kalteng-at-large;Kalteng-at-large;No Change
+62;6206;6206;Kalimantan Tengah;Kab. Sukamara;Kab. Sukamara;Kalteng-at-large;Kalteng-at-large;No Change
+62;6207;6207;Kalimantan Tengah;Kab. Lamandau;Kab. Lamandau;Kalteng-at-large;Kalteng-at-large;No Change
+62;6208;6208;Kalimantan Tengah;Kab. Seruyan;Kab. Seruyan;Kalteng-at-large;Kalteng-at-large;No Change
+62;6209;6209;Kalimantan Tengah;Kab. Katingan;Kab. Katingan;Kalteng-at-large;Kalteng-at-large;No Change
+62;6210;6210;Kalimantan Tengah;Kab. Pulang Pisau;Kab. Pulang Pisau;Kalteng-at-large;Kalteng-at-large;No Change
+62;6211;6211;Kalimantan Tengah;Kab. Gunung Mas;Kab. Gunung Mas;Kalteng-at-large;Kalteng-at-large;No Change
+62;6212;6212;Kalimantan Tengah;Kab. Barito Timur;Kab. Barito Timur;Kalteng-at-large;Kalteng-at-large;No Change
+62;6213;6213;Kalimantan Tengah;Kab. Murung Raya;Kab. Murung Raya;Kalteng-at-large;Kalteng-at-large;No Change
+62;6271;6271;Kalimantan Tengah;Kota Palangkaraya;Kota Palangkaraya;Kalteng-at-large;Kalteng-at-large;No Change
+63;6301;6301;Kalimantan Selatan;Kab. Tanah Laut;Kab. Tanah Laut;Kalsel-02;Kalsel-02;No Change
+63;6302;6302;Kalimantan Selatan;Kab. Kota Baru;Kab. Kota Baru;Kalsel-02;Kalsel-02;No Change
+63;6303;6303;Kalimantan Selatan;Kab. Banjar;Kab. Banjar;Kalsel-01;Kalsel-01;No Change
+63;6304;6304;Kalimantan Selatan;Kab. Barito Kuala;Kab. Barito Kuala;Kalsel-01;Kalsel-01;No Change
+63;6305;6305;Kalimantan Selatan;Kab. Tapin;Kab. Tapin;Kalsel-01;Kalsel-01;No Change
+63;6306;6306;Kalimantan Selatan;Kab. Hulu Sungai Selatan;Kab. Hulu Sungai Selatan;Kalsel-01;Kalsel-01;No Change
+63;6307;6307;Kalimantan Selatan;Kab. Hulu Sungai Tengah;Kab. Hulu Sungai Tengah;Kalsel-01;Kalsel-01;No Change
+63;6308;6308;Kalimantan Selatan;Kab. Hulu Sungai Utara;Kab. Hulu Sungai Utara;Kalsel-01;Kalsel-01;No Change
+63;6309;6309;Kalimantan Selatan;Kab. Tabalong;Kab. Tabalong;Kalsel-01;Kalsel-01;No Change
+63;6310;6310;Kalimantan Selatan;Kab. Tanah Bumbu;Kab. Tanah Bumbu;Kalsel-02;Kalsel-02;No Change
+63;6311;6311;Kalimantan Selatan;Kab. Balangan;Kab. Balangan;Kalsel-01;Kalsel-01;No Change
+63;6371;6371;Kalimantan Selatan;Kota Banjarmasin;Kota Banjarmasin;Kalsel-02;Kalsel-02;No Change
+63;6372;6372;Kalimantan Selatan;Kota Banjar Baru;Kota Banjar Baru;Kalsel-02;Kalsel-02;No Change
+64;6401;6401;Kalimantan Timur;Kab. Pasir;Kab. Pasir;Kaltim-at-large;Kaltim-at-large;No Change
+64;6402;6402;Kalimantan Timur;Kab. Kutai Barat;Kab. Kutai Barat;Kaltim-at-large;Kaltim-at-large;No Change
+64;6403;6403;Kalimantan Timur;Kab. Kutai Kartanegara;Kab. Kutai Kartanegara;Kaltim-at-large;Kaltim-at-large;No Change
+64;6404;6404;Kalimantan Timur;Kab. Kutai Timur;Kab. Kutai Timur;Kaltim-at-large;Kaltim-at-large;No Change
+64;6405;6405;Kalimantan Timur;Kab. Berau;Kab. Berau;Kaltim-at-large;Kaltim-at-large;No Change
+64;6409;6409;Kalimantan Timur;Kab. Penajam Paser Utara;Kab. Penajam Paser Utara;Kaltim-at-large;Kaltim-at-large;No Change
+64;6411;6411;Kalimantan Timur;Kab. Mahakam Hulu;Kab. Mahakam Hulu;Kaltim-at-large;Kaltim-at-large;No Change
+64;6471;6471;Kalimantan Timur;Kota Balikpapan;Kota Balikpapan;Kaltim-at-large;Kaltim-at-large;No Change
+64;6472;6472;Kalimantan Timur;Kota Samarinda;Kota Samarinda;Kaltim-at-large;Kaltim-at-large;No Change
+64;6474;6474;Kalimantan Timur;Kota Bontang;Kota Bontang;Kaltim-at-large;Kaltim-at-large;No Change
+65;6501;6501;Kalimantan Utara;Kab. Malinau;Kab. Malinau;Kalut-at-large;Kaltim-at-large;Split District
+65;6502;6502;Kalimantan Utara;Kab. Bulungan;Kab. Bulungan;Kalut-at-large;Kaltim-at-large;Split District
+65;6503;6503;Kalimantan Utara;Kab. Tana Tidung;Kab. Tana Tidung;Kalut-at-large;Kaltim-at-large;Split District
+65;6504;6504;Kalimantan Utara;Kab. Nunukan;Kab. Nunukan;Kalut-at-large;Kaltim-at-large;Split District
+65;6571;6571;Kalimantan Utara;Kota Tarakan;Kota Tarakan;Kalut-at-large;Kaltim-at-large;Split District
+71;7101;7101;Sulawesi Utara;Kab. Bolaang Mongondow;Kab. Bolaang Mongondow;Sulut-at-large;Sulut-at-large;No Change
+71;7102;7102;Sulawesi Utara;Kab. Minahasa;Kab. Minahasa;Sulut-at-large;Sulut-at-large;No Change
+71;7103;7103;Sulawesi Utara;Kab. Kepulauan Sangihe;Kab. Kepulauan Sangihe;Sulut-at-large;Sulut-at-large;No Change
+71;7104;7104;Sulawesi Utara;Kab. Kepulauan Talaud;Kab. Kepulauan Talaud;Sulut-at-large;Sulut-at-large;No Change
+71;7105;7105;Sulawesi Utara;Kab. Minahasa Selatan;Kab. Minahasa Selatan;Sulut-at-large;Sulut-at-large;No Change
+71;7106;7106;Sulawesi Utara;Kab. Minahasa Utara;Kab. Minahasa Utara;Sulut-at-large;Sulut-at-large;No Change
+71;7107;7107;Sulawesi Utara;Kab. Bolaang Mongondow Utara;Kab. Bolaang Mongondow Utara;Sulut-at-large;Sulut-at-large;No Change
+71;7108;7108;Sulawesi Utara;Kab. Kep. Siau Tagulandang Biaro (Sitaro);Kab. Kep. Siau Tagulandang Biaro (Sitaro);Sulut-at-large;Sulut-at-large;No Change
+71;7109;7109;Sulawesi Utara;Kab. Minahasa Tenggara (Mitra);Kab. Minahasa Tenggara (Mitra);Sulut-at-large;Sulut-at-large;No Change
+71;7110;7110;Sulawesi Utara;Kab. Bolaang Mongondow Selatan;Kab. Bolaang Mongondow Selatan;Sulut-at-large;Sulut-at-large;No Change
+71;7111;7111;Sulawesi Utara;Kab. Bolaang Mongondow Timur;Kab. Bolaang Mongondow Timur;Sulut-at-large;Sulut-at-large;No Change
+71;7171;7171;Sulawesi Utara;Kota Manado;Kota Manado;Sulut-at-large;Sulut-at-large;No Change
+71;7172;7172;Sulawesi Utara;Kota Bitung;Kota Bitung;Sulut-at-large;Sulut-at-large;No Change
+71;7173;7173;Sulawesi Utara;Kota Tomohon;Kota Tomohon;Sulut-at-large;Sulut-at-large;No Change
+71;7174;7174;Sulawesi Utara;Kota Kotamobagu;Kota Kotamobagu;Sulut-at-large;Sulut-at-large;No Change
+72;7201;7201;Sulawesi Tengah;Kab. Banggai Kepulauan;Kab. Banggai Kepulauan;Sulteng-at-large;Sulteng-at-large;No Change
+72;7202;7202;Sulawesi Tengah;Kab. Banggai;Kab. Banggai;Sulteng-at-large;Sulteng-at-large;No Change
+72;7203;7203;Sulawesi Tengah;Kab. Morowali;Kab. Morowali;Sulteng-at-large;Sulteng-at-large;No Change
+72;7204;7204;Sulawesi Tengah;Kab. Poso;Kab. Poso;Sulteng-at-large;Sulteng-at-large;No Change
+72;7205;7205;Sulawesi Tengah;Kab. Donggala;Kab. Donggala;Sulteng-at-large;Sulteng-at-large;No Change
+72;7206;7206;Sulawesi Tengah;Kab. Toli-Toli;Kab. Toli-Toli;Sulteng-at-large;Sulteng-at-large;No Change
+72;7207;7207;Sulawesi Tengah;Kab. Buol;Kab. Buol;Sulteng-at-large;Sulteng-at-large;No Change
+72;7208;7208;Sulawesi Tengah;Kab. Parigi Moutong;Kab. Parigi Moutong;Sulteng-at-large;Sulteng-at-large;No Change
+72;7209;7209;Sulawesi Tengah;Kab. Tojo Una-Una;Kab. Tojo Una-Una;Sulteng-at-large;Sulteng-at-large;No Change
+72;7210;7210;Sulawesi Tengah;Kab. Sigi;Kab. Sigi;Sulteng-at-large;Sulteng-at-large;No Change
+72;7211;7211;Sulawesi Tengah;Kab. Banggai Laut;Kab. Banggai Laut;Sulteng-at-large;Sulteng-at-large;No Change
+72;7212;7212;Sulawesi Tengah;Kab. Morowali Utara;Kab. Morowali Utara;Sulteng-at-large;Sulteng-at-large;No Change
+72;7271;7271;Sulawesi Tengah;Kota Palu;Kota Palu;Sulteng-at-large;Sulteng-at-large;No Change
+73;7301;7301;Sulawesi Selatan;Kab. Selayar;Kab. Selayar;Sulsel-01;Sulsel-01;No Change
+73;7302;7302;Sulawesi Selatan;Kab. Bulukumba;Kab. Bulukumba;Sulsel-02;Sulsel-02;No Change
+73;7303;7303;Sulawesi Selatan;Kab. Bantaeng;Kab. Bantaeng;Sulsel-01;Sulsel-01;No Change
+73;7304;7304;Sulawesi Selatan;Kab. Jeneponto;Kab. Jeneponto;Sulsel-01;Sulsel-01;No Change
+73;7305;7305;Sulawesi Selatan;Kab. Takalar;Kab. Takalar;Sulsel-01;Sulsel-01;No Change
+73;7306;7306;Sulawesi Selatan;Kab. Gowa;Kab. Gowa;Sulsel-01;Sulsel-01;No Change
+73;7307;7307;Sulawesi Selatan;Kab. Sinjai;Kab. Sinjai;Sulsel-02;Sulsel-02;No Change
+73;7308;7308;Sulawesi Selatan;Kab. Maros;Kab. Maros;Sulsel-02;Sulsel-02;No Change
+73;7309;7309;Sulawesi Selatan;Kab. Pangkajene Kepulauan;Kab. Pangkajene Kepulauan;Sulsel-02;Sulsel-02;No Change
+73;7310;7310;Sulawesi Selatan;Kab. Barru;Kab. Barru;Sulsel-02;Sulsel-02;No Change
+73;7311;7311;Sulawesi Selatan;Kab. Bone;Kab. Bone;Sulsel-02;Sulsel-02;No Change
+73;7312;7312;Sulawesi Selatan;Kab. Soppeng;Kab. Soppeng;Sulsel-02;Sulsel-02;No Change
+73;7313;7313;Sulawesi Selatan;Kab. Wajo;Kab. Wajo;Sulsel-02;Sulsel-02;No Change
+73;7314;7314;Sulawesi Selatan;Kab. Sidenreng Rappang;Kab. Sidenreng Rappang;Sulsel-03;Sulsel-03;No Change
+73;7315;7315;Sulawesi Selatan;Kab. Pinrang;Kab. Pinrang;Sulsel-03;Sulsel-03;No Change
+73;7316;7316;Sulawesi Selatan;Kab. Enrekang;Kab. Enrekang;Sulsel-03;Sulsel-03;No Change
+73;7317;7317;Sulawesi Selatan;Kab. Luwu;Kab. Luwu;Sulsel-03;Sulsel-03;No Change
+73;7318;7318;Sulawesi Selatan;Kab. Tana Toraja;Kab. Tana Toraja;Sulsel-03;Sulsel-03;No Change
+73;7322;7322;Sulawesi Selatan;Kab. Luwu Utara;Kab. Luwu Utara;Sulsel-03;Sulsel-03;No Change
+73;7325;7325;Sulawesi Selatan;Kab. Luwu Timur;Kab. Luwu Timur;Sulsel-03;Sulsel-03;No Change
+73;7326;7326;Sulawesi Selatan;Kab. Toraja Utara;Kab. Toraja Utara;Sulsel-03;Sulsel-03;No Change
+73;7371;7371;Sulawesi Selatan;Kota Makassar;Kota Makassar;Sulsel-01;Sulsel-01;No Change
+73;7372;7372;Sulawesi Selatan;Kota Pare-Pare;Kota Pare-Pare;Sulsel-02;Sulsel-02;No Change
+73;7373;7373;Sulawesi Selatan;Kota Palopo;Kota Palopo;Sulsel-03;Sulsel-03;No Change
+74;7401;7401;Sulawesi Tenggara;Kab. Buton;Kab. Buton;Sultra-at-large;Sultra-at-large;No Change
+74;7402;7402;Sulawesi Tenggara;Kab. Muna;Kab. Muna;Sultra-at-large;Sultra-at-large;No Change
+74;7403;7403;Sulawesi Tenggara;Kab. Konawe;Kab. Konawe;Sultra-at-large;Sultra-at-large;No Change
+74;7404;7404;Sulawesi Tenggara;Kab. Kolaka;Kab. Kolaka;Sultra-at-large;Sultra-at-large;No Change
+74;7405;7405;Sulawesi Tenggara;Kab. Konawe Selatan;Kab. Konawe Selatan;Sultra-at-large;Sultra-at-large;No Change
+74;7406;7406;Sulawesi Tenggara;Kab. Bombana;Kab. Bombana;Sultra-at-large;Sultra-at-large;No Change
+74;7407;7407;Sulawesi Tenggara;Kab. Wakatobi;Kab. Wakatobi;Sultra-at-large;Sultra-at-large;No Change
+74;7408;7408;Sulawesi Tenggara;Kab. Kolaka Utara;Kab. Kolaka Utara;Sultra-at-large;Sultra-at-large;No Change
+74;7409;7409;Sulawesi Tenggara;Kab. Buton Utara;Kab. Buton Utara;Sultra-at-large;Sultra-at-large;No Change
+74;7410;7410;Sulawesi Tenggara;Kab. Konawe Utara;Kab. Konawe Utara;Sultra-at-large;Sultra-at-large;No Change
+74;7411;7411;Sulawesi Tenggara;Kab. Kolaka Timur;Kab. Kolaka Timur;Sultra-at-large;Sultra-at-large;No Change
+74;7412;7412;Sulawesi Tenggara;Kab. Konawe Kepulauan;Kab. Konawe Kepulauan;Sultra-at-large;Sultra-at-large;No Change
+74;7402;7413;Sulawesi Tenggara;Kab. Muna;Kab. Muna Barat;Sultra-at-large;Sultra-at-large;No Change
+74;7401;7414;Sulawesi Tenggara;Kab. Buton;Kab. Buton Tengah;Sultra-at-large;Sultra-at-large;No Change
+74;7401;7415;Sulawesi Tenggara;Kab. Buton;Kab. Buton Selatan;Sultra-at-large;Sultra-at-large;No Change
+74;7471;7471;Sulawesi Tenggara;Kota Kendari;Kota Kendari;Sultra-at-large;Sultra-at-large;No Change
+74;7472;7472;Sulawesi Tenggara;Kota Bau-bau;Kota Bau-bau;Sultra-at-large;Sultra-at-large;No Change
+75;7501;7501;Gorontalo;Kab. Boalemo;Kab. Boalemo;Gorontalo-at-large;Gorontalo-at-large;No Change
+75;7502;7502;Gorontalo;Kab. Gorontalo;Kab. Gorontalo;Gorontalo-at-large;Gorontalo-at-large;No Change
+75;7503;7503;Gorontalo;Kab. Pohuwato;Kab. Pohuwato;Gorontalo-at-large;Gorontalo-at-large;No Change
+75;7504;7504;Gorontalo;Kab. Bone Bolango;Kab. Bone Bolango;Gorontalo-at-large;Gorontalo-at-large;No Change
+75;7505;7505;Gorontalo;Kab. Gorontalo Utara;Kab. Gorontalo Utara;Gorontalo-at-large;Gorontalo-at-large;No Change
+75;7571;7571;Gorontalo;Kota Gorontalo;Kota Gorontalo;Gorontalo-at-large;Gorontalo-at-large;No Change
+76;7601;7601;Sulawesi Barat;Kab. Majene;Kab. Majene;Sulbar-at-large;Sulbar-at-large;No Change
+76;7602;7602;Sulawesi Barat;Kab. Polewali Mandar;Kab. Polewali Mandar;Sulbar-at-large;Sulbar-at-large;No Change
+76;7603;7603;Sulawesi Barat;Kab. Mamasa;Kab. Mamasa;Sulbar-at-large;Sulbar-at-large;No Change
+76;7604;7604;Sulawesi Barat;Kab. Mamuju;Kab. Mamuju;Sulbar-at-large;Sulbar-at-large;No Change
+76;7605;7605;Sulawesi Barat;Kab. Mamuju Utara;Kab. Mamuju Utara;Sulbar-at-large;Sulbar-at-large;No Change
+76;7606;7606;Sulawesi Barat;Kab. Mamuju Tengah;Kab. Mamuju Tengah;Sulbar-at-large;Sulbar-at-large;No Change
+81;8101;8101;Maluku;Kab. Maluku Tenggara Barat;Kab. Maluku Tenggara Barat;Maluku-at-large;Maluku-at-large;No Change
+81;8102;8102;Maluku;Kab. Maluku Tenggara;Kab. Maluku Tenggara;Maluku-at-large;Maluku-at-large;No Change
+81;8103;8103;Maluku;Kab. Maluku Tengah;Kab. Maluku Tengah;Maluku-at-large;Maluku-at-large;No Change
+81;8104;8104;Maluku;Kab. Buru;Kab. Buru;Maluku-at-large;Maluku-at-large;No Change
+81;8105;8105;Maluku;Kab. Kepulauan Aru;Kab. Kepulauan Aru;Maluku-at-large;Maluku-at-large;No Change
+81;8106;8106;Maluku;Kab. Seram Bagian Barat;Kab. Seram Bagian Barat;Maluku-at-large;Maluku-at-large;No Change
+81;8107;8107;Maluku;Kab. Seram Bagian Timur;Kab. Seram Bagian Timur;Maluku-at-large;Maluku-at-large;No Change
+81;8108;8108;Maluku;Kab. Maluku Barat Daya;Kab. Maluku Barat Daya;Maluku-at-large;Maluku-at-large;No Change
+81;8109;8109;Maluku;Kab. Buru Selatan;Kab. Buru Selatan;Maluku-at-large;Maluku-at-large;No Change
+81;8171;8171;Maluku;Kota Ambon;Kota Ambon;Maluku-at-large;Maluku-at-large;No Change
+81;8172;8172;Maluku;Kota Tual;Kota Tual;Maluku-at-large;Maluku-at-large;No Change
+82;8201;8201;Maluku Utara;Kab. Halmahera Barat;Kab. Halmahera Barat;Malut-at-large;Malut-at-large;No Change
+82;8202;8202;Maluku Utara;Kab. Halmahera Tengah;Kab. Halmahera Tengah;Malut-at-large;Malut-at-large;No Change
+82;8203;8203;Maluku Utara;Kab. Kepulauan Sula;Kab. Kepulauan Sula;Malut-at-large;Malut-at-large;No Change
+82;8204;8204;Maluku Utara;Kab. Halmahera Selatan;Kab. Halmahera Selatan;Malut-at-large;Malut-at-large;No Change
+82;8205;8205;Maluku Utara;Kab. Halmahera Utara;Kab. Halmahera Utara;Malut-at-large;Malut-at-large;No Change
+82;8206;8206;Maluku Utara;Kab. Halmahera Timur;Kab. Halmahera Timur;Malut-at-large;Malut-at-large;No Change
+82;8207;8207;Maluku Utara;Kab. Morotai;Kab. Morotai;Malut-at-large;Malut-at-large;No Change
+82;8208;8208;Maluku Utara;Kab. Pulau Taliabu;Kab. Pulau Taliabu;Malut-at-large;Malut-at-large;No Change
+82;8271;8271;Maluku Utara;Kota Ternate;Kota Ternate;Malut-at-large;Malut-at-large;No Change
+82;8272;8272;Maluku Utara;Kota Tidore Kepulauan;Kota Tidore Kepulauan;Malut-at-large;Malut-at-large;No Change
+91;9101;9101;Papua Barat;Kab. Fak-Fak;Kab. Fak-Fak;Pabar-at-large;Pabar-at-large;No Change
+91;9102;9102;Papua Barat;Kab. Kaimana;Kab. Kaimana;Pabar-at-large;Pabar-at-large;No Change
+91;9103;9103;Papua Barat;Kab. Teluk Wondama;Kab. Teluk Wondama;Pabar-at-large;Pabar-at-large;No Change
+91;9104;9104;Papua Barat;Kab. Teluk Bintuni;Kab. Teluk Bintuni;Pabar-at-large;Pabar-at-large;No Change
+91;9105;9105;Papua Barat;Kab. Manokwari;Kab. Manokwari;Pabar-at-large;Pabar-at-large;No Change
+91;9106;9106;Papua Barat;Kab. Sorong Selatan;Kab. Sorong Selatan;Pabar-at-large;Pabar-at-large;No Change
+91;9107;9107;Papua Barat;Kab. Sorong;Kab. Sorong;Pabar-at-large;Pabar-at-large;No Change
+91;9108;9108;Papua Barat;Kab. Raja Ampat;Kab. Raja Ampat;Pabar-at-large;Pabar-at-large;No Change
+91;9109;9109;Papua Barat;Kab. Tambrauw;Kab. Tambrauw;Pabar-at-large;Pabar-at-large;No Change
+91;9110;9110;Papua Barat;Kab. Maybrat;Kab. Maybrat;Pabar-at-large;Pabar-at-large;No Change
+91;9111;9111;Papua Barat;Kab. Manokwari Selatan;Kab. Manokwari Selatan;Pabar-at-large;Pabar-at-large;No Change
+91;9112;9112;Papua Barat;Kab. Pegunungan Arfak;Kab. Pegunungan Arfak;Pabar-at-large;Pabar-at-large;No Change
+91;9171;9171;Papua Barat;Kota Sorong;Kota Sorong;Pabar-at-large;Pabar-at-large;No Change
+94;9401;9401;Papua;Kab. Merauke;Kab. Merauke;Papua-at-large;Papua-at-large;No Change
+94;9402;9402;Papua;Kab. Jayawijaya;Kab. Jayawijaya;Papua-at-large;Papua-at-large;No Change
+94;9403;9403;Papua;Kab. Jayapura;Kab. Jayapura;Papua-at-large;Papua-at-large;No Change
+94;9404;9404;Papua;Kab. Nabire;Kab. Nabire;Papua-at-large;Papua-at-large;No Change
+94;9408;9408;Papua;Kab. Yapen Waropen;Kab. Yapen Waropen;Papua-at-large;Papua-at-large;No Change
+94;9409;9409;Papua;Kab. Biak Numfor;Kab. Biak Numfor;Papua-at-large;Papua-at-large;No Change
+94;9410;9410;Papua;Kab. Paniai;Kab. Paniai;Papua-at-large;Papua-at-large;No Change
+94;9411;9411;Papua;Kab. Puncak Jaya;Kab. Puncak Jaya;Papua-at-large;Papua-at-large;No Change
+94;9412;9412;Papua;Kab. Mimika;Kab. Mimika;Papua-at-large;Papua-at-large;No Change
+94;9413;9413;Papua;Kab. Boven Digoel;Kab. Boven Digoel;Papua-at-large;Papua-at-large;No Change
+94;9414;9414;Papua;Kab. Mappi;Kab. Mappi;Papua-at-large;Papua-at-large;No Change
+94;9415;9415;Papua;Kab. Asmat;Kab. Asmat;Papua-at-large;Papua-at-large;No Change
+94;9416;9416;Papua;Kab. Yahukimo;Kab. Yahukimo;Papua-at-large;Papua-at-large;No Change
+94;9417;9417;Papua;Kab. Pegunungan Bintang;Kab. Pegunungan Bintang;Papua-at-large;Papua-at-large;No Change
+94;9418;9418;Papua;Kab. Tolikara;Kab. Tolikara;Papua-at-large;Papua-at-large;No Change
+94;9419;9419;Papua;Kab. Sarmi;Kab. Sarmi;Papua-at-large;Papua-at-large;No Change
+94;9420;9420;Papua;Kab. Keerom;Kab. Keerom;Papua-at-large;Papua-at-large;No Change
+94;9426;9426;Papua;Kab. Waropen;Kab. Waropen;Papua-at-large;Papua-at-large;No Change
+94;9427;9427;Papua;Kab. Supiori;Kab. Supiori;Papua-at-large;Papua-at-large;No Change
+94;9428;9428;Papua;Kab. Mamberamo Raya;Kab. Mamberamo Raya;Papua-at-large;Papua-at-large;No Change
+94;9429;9429;Papua;Kab. Nduga;Kab. Nduga;Papua-at-large;Papua-at-large;No Change
+94;9430;9430;Papua;Kab. Lanny Jaya;Kab. Lanny Jaya;Papua-at-large;Papua-at-large;No Change
+94;9431;9431;Papua;Kab. Mamberamo Tengah;Kab. Mamberamo Tengah;Papua-at-large;Papua-at-large;No Change
+94;9432;9432;Papua;Kab. Yalimo;Kab. Yalimo;Papua-at-large;Papua-at-large;No Change
+94;9433;9433;Papua;Kab. Puncak;Kab. Puncak;Papua-at-large;Papua-at-large;No Change
+94;9434;9434;Papua;Kab. Dogiyai;Kab. Dogiyai;Papua-at-large;Papua-at-large;No Change
+94;9435;9435;Papua;Kab. Intan Jaya;Kab. Intan Jaya;Papua-at-large;Papua-at-large;No Change
+94;9436;9436;Papua;Kab. Deiyai;Kab. Deiyai;Papua-at-large;Papua-at-large;No Change
+94;9471;9471;Papua;Kota Jayapura;Kota Jayapura;Papua-at-large;Papua-at-large;No Change

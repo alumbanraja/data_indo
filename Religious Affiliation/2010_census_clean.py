@@ -6,25 +6,15 @@ Created on Fri Jan 29 21:01:35 2021
 @author: alvin
 """
 
-import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
-import scipy as sp
-import datetime as dt
-import functools
-import seaborn as sns; sns.set()
-import time
-import copy
-import scipy.stats as sts
-import statsmodels.api as sm
-import random
 import os
 
 # Change to Offline Directory
 os.chdir("/Users/alvin/Documents/data_indo/Religious Affiliation")
 
 # Create dictionary of province codes
-provid = 'provcodes.csv'
+provid = 'provcodes_2010.csv'
 
 prov = pd.read_csv(provid)
 plist = prov['provincecode'].values.tolist()
@@ -48,12 +38,12 @@ for i in range(0,len(plist)):
     fname = pname[i]
     dflist[fname] = clean(plist[i])
 
-# Merging into one dataset and 
+# Merging into one dataset 
 output = pd.concat(dflist.values(), ignore_index=True)
 output['kode_bps_2010']=output['kode_prov']+output['kode_kab_last']
 output.drop(columns=['kode_kab_last','kode_prov'],inplace=True)
 cols_output = [output.columns[-1]] + [col for col in output if col != output.columns[-1]]
-output = output[cols_output]
+output = output[cols_output] # reorder kode_bps_2010
 output.to_csv('population_by_religion_2010.csv',index=False)
 
 # Computing share of religious affiliation
